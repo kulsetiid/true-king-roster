@@ -1,0 +1,22 @@
+{
+  "type": "script",
+  "enabled": true,
+  "name": "真王核心-花名册",
+  "id": "a59735c3-f936-44f0-9835-f792cb5e6285",
+  "content": "import 'https://kulsetiid.github.io/true-king-roster/index.js';",
+  "info": "真王核心-花名册 V0.2：花名册、小帮手悬浮入口、姬月愿望与冠冕之灵拼装。\n网络加载版：需联网。更新后刷新酒馆；请勿与完整版或旧脚本同时启用。",
+  "button": {
+    "enabled": true,
+    "buttons": []
+  },
+  "data": {
+    "version": "V0.2",
+    "buildId": "20260907-true-king-roster-v0.2",
+    "catalogVersion": "sha256-30a837aedeb9408d4089108e",
+    "architecture": "package-composition-v1"
+  },
+  "export_with": {
+    "data": true,
+    "button": true
+  }
+}
