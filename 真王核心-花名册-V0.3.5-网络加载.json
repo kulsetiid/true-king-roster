@@ -1,0 +1,22 @@
+{
+  "type": "script",
+  "enabled": true,
+  "name": "真王核心-花名册",
+  "id": "a59735c3-f936-44f0-9835-f792cb5e6285",
+  "content": "import 'https://kulsetiid.github.io/true-king-roster/index.js';",
+  "info": "真王核心-花名册 V0.3.5：小帮手在9个家具点位之间随机落位、轻轻浮动和邻近巡游，可以躲在沙发扶手旁或在工作区忙碌；保留点击迅速逃跑与100FP奖励，以及纸剧场、花名册原有功能。\n网络加载版：需联网。更新后刷新酒馆；请勿与完整版或旧脚本同时启用。",
+  "button": {
+    "enabled": true,
+    "buttons": []
+  },
+  "data": {
+    "version": "V0.3.5",
+    "buildId": "20260912-true-king-helper-flight-v0.3.5",
+    "catalogVersion": "sha256-30a837aedeb9408d4089108e",
+    "architecture": "package-composition-v1"
+  },
+  "export_with": {
+    "data": true,
+    "button": true
+  }
+}
