@@ -1,0 +1,22 @@
+{
+  "type": "script",
+  "enabled": true,
+  "name": "真王核心-花名册",
+  "id": "a59735c3-f936-44f0-9835-f792cb5e6285",
+  "content": "import 'https://kulsetiid.github.io/true-king-roster/index.js';",
+  "info": "真王核心-花名册 V0.3.6：修复提示词预演或停止生成后，小帮手互动与姬月愿望被生成状态锁住的问题；保留此前成品的人设、规则、图像及原有功能。\n网络加载版：需联网。更新后刷新酒馆；请勿与完整版或旧脚本同时启用。",
+  "button": {
+    "enabled": true,
+    "buttons": []
+  },
+  "data": {
+    "version": "V0.3.6",
+    "buildId": "20260915-true-king-generation-unlock-v0.3.6",
+    "catalogVersion": "sha256-30a837aedeb9408d4089108e",
+    "architecture": "package-composition-v1"
+  },
+  "export_with": {
+    "data": true,
+    "button": true
+  }
+}
