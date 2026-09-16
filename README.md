@@ -1,8 +1,8 @@
 # 真王核心-花名册
 
-版本：**V0.3.6**。用于 SillyTavern 酒馆助手。
+版本：**V0.3.7**。用于 SillyTavern 酒馆助手。
 
-真王核心-花名册 V0.3.6：修复提示词预演或停止生成后，小帮手互动与姬月愿望被生成状态锁住的问题；保留此前成品的人设、规则、图像及原有功能。
+真王核心-花名册 V0.3.7：修复悬浮小帮手的位置与拖动边界，以及竖屏客厅的显示比例；保留此前发布的人设、规则、图像和其他功能。
 
 ## 一行网络加载
 
@@ -12,7 +12,7 @@
 import 'https://kulsetiid.github.io/true-king-roster/index.js';
 ```
 
-也可直接导入 [网络加载JSON](https://kulsetiid.github.io/true-king-roster/%E7%9C%9F%E7%8E%8B%E6%A0%B8%E5%BF%83-%E8%8A%B1%E5%90%8D%E5%86%8C-V0.3.6-%E7%BD%91%E7%BB%9C%E5%8A%A0%E8%BD%BD.json)。网络版和完整版的脚本ID相同，用于替换升级，**不要同时启用多个版本**。
+也可直接导入 [网络加载JSON](https://kulsetiid.github.io/true-king-roster/%E7%9C%9F%E7%8E%8B%E6%A0%B8%E5%BF%83-%E8%8A%B1%E5%90%8D%E5%86%8C-V0.3.7-%E7%BD%91%E7%BB%9C%E5%8A%A0%E8%BD%BD.json)。网络版和完整版的脚本ID相同，用于替换升级，**不要同时启用多个版本**。
 
 ## 配套安装
 
@@ -25,7 +25,7 @@ import 'https://kulsetiid.github.io/true-king-roster/index.js';
 
 ## 完整版与更新
 
-[完整版JSON](https://kulsetiid.github.io/true-king-roster/%E7%9C%9F%E7%8E%8B%E6%A0%B8%E5%BF%83-%E8%8A%B1%E5%90%8D%E5%86%8C-V0.3.6-%E5%AE%8C%E6%95%B4%E7%89%88.json) 保留内嵌图片，可在 GitHub 访问不稳定时替代网络版。对白正则自身使用的外部图片仍需要网络。
+[完整版JSON](https://kulsetiid.github.io/true-king-roster/%E7%9C%9F%E7%8E%8B%E6%A0%B8%E5%BF%83-%E8%8A%B1%E5%90%8D%E5%86%8C-V0.3.7-%E5%AE%8C%E6%95%B4%E7%89%88.json) 保留内嵌图片，可在 GitHub 访问不稳定时替代网络版。对白正则自身使用的外部图片仍需要网络。
 
 网络版从 GitHub Pages 下载完整脚本（约 101.9 MB），首次加载速度取决于网络，**不意味着只下载一行代码的流量**。后续发布可沿用同一地址，通常在刷新酒馆后获取更新，并可能受浏览器/CDN缓存影响；不是即时热更新。
 

@@ -1,0 +1,22 @@
+{
+  "type": "script",
+  "enabled": true,
+  "name": "真王核心-花名册",
+  "id": "a59735c3-f936-44f0-9835-f792cb5e6285",
+  "content": "import 'https://kulsetiid.github.io/true-king-roster/index.js';",
+  "info": "真王核心-花名册 V0.3.7：修复悬浮小帮手的位置与拖动边界，以及竖屏客厅的显示比例；保留此前发布的人设、规则、图像和其他功能。\n网络加载版：需联网。更新后刷新酒馆；请勿与完整版或旧脚本同时启用。",
+  "button": {
+    "enabled": true,
+    "buttons": []
+  },
+  "data": {
+    "version": "V0.3.7",
+    "buildId": "20260916-true-king-viewport-fix-v0.3.7",
+    "catalogVersion": "sha256-30a837aedeb9408d4089108e",
+    "architecture": "package-composition-v1"
+  },
+  "export_with": {
+    "data": true,
+    "button": true
+  }
+}
