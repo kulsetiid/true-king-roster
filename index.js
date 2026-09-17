@@ -1661,9 +1661,11 @@ function loadNetworkImage(image, options = {}) {
     if (previous?.state.status === 'loading') previous.cancel();
     return null;
   }
+  const currentLoaded = image.complete && image.naturalWidth > 0;
   if (previous && previous.generation === networkImageGeneration &&
       previous.primary === resource.primary && previous.state.url === image.src &&
-      previous.state.status !== 'cancelled' && !options.retry) {
+      previous.state.status !== 'cancelled' &&
+      !(currentLoaded && previous.state.status === 'failed') && !options.retry) {
     networkImageSubscribe(previous, options);
     return previous;
   }
@@ -1671,13 +1673,15 @@ function loadNetworkImage(image, options = {}) {
   // A watcher is started only for an active page. Do not start a timeout for a
   // lazy image whose browser request is still deferred below the viewport.
   if (image.loading === 'lazy') image.loading = 'eager';
-  const preferred = networkImagePreferred.get(resource.primary);
+  // A request can finish after our timeout. Reuse those valid pixels even on
+  // explicit retry; replacing src here would discard the completed download.
+  const preferred = currentLoaded ? image.src : networkImagePreferred.get(resource.primary);
   const sources = preferred
     ? [preferred, ...resource.sources.filter((url) => url !== preferred)] : resource.sources.slice();
   const ownerWindow = image.ownerDocument?.defaultView || globalThis;
   const setTimer = ownerWindow.setTimeout.bind(ownerWindow);
   const clearTimer = ownerWindow.clearTimeout.bind(ownerWindow);
-  const timeoutMs = Number.isFinite(options.timeoutMs) && options.timeoutMs > 0 ? options.timeoutMs : 12000;
+  const timeoutMs = Number.isFinite(options.timeoutMs) && options.timeoutMs > 0 ? options.timeoutMs : 60000;
   const state = { status: 'loading', url: '', attempts: [], primary: resource.primary };
   let settle;
   let attemptCleanup = () => {};
@@ -1723,7 +1727,7 @@ function loadNetworkImage(image, options = {}) {
     image.addEventListener('load', onLoad);
     image.addEventListener('error', onError);
     timer = setTimer(onError, timeoutMs);
-    if (image.src !== url || options.retry) image.src = url;
+    if (image.src !== url || (options.retry && !currentLoaded)) image.src = url;
     // A cached image may finish before the listeners are attached.
     if (image.complete) {
       if (image.naturalWidth > 0) onLoad();
