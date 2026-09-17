@@ -1,0 +1,22 @@
+{
+  "type": "script",
+  "enabled": true,
+  "name": "真王核心-花名册",
+  "id": "a59735c3-f936-44f0-9835-f792cb5e6285",
+  "content": "import 'https://kulsetiid.github.io/true-king-roster/index.js';",
+  "info": "真王核心-花名册 V0.3.12：新增小帮手装配纸剧场加载页，以当前客厅图片的真实完成数显示进度，全部就绪后才开放场景；失败时可重新装配或返回聊天。保留手机窗口修复、轻量联网图片备用源、七枚权柄纸卡、动态客厅点位与艾琳内容。\n轻量联网版：脚本与图片分开下载，图片按需加载并由浏览器缓存。首次查看仍需网络。请勿与完整版或旧脚本同时启用。",
+  "button": {
+    "enabled": true,
+    "buttons": []
+  },
+  "data": {
+    "version": "V0.3.12",
+    "buildId": "20260917-true-king-scene-loader-v0.3.12",
+    "catalogVersion": "sha256-86ab1531590c0de4183f6166",
+    "architecture": "package-composition-v1"
+  },
+  "export_with": {
+    "data": true,
+    "button": true
+  }
+}
