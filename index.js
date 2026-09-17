@@ -6937,10 +6937,13 @@ function createTrueKingPaperClass(options) {
         description: '真王核心v2声明式拼装包目录',
       });
       const meta = await this.store.getItem('meta');
-      if (meta?.seedVersion === SEED.seedVersion) return;
+      const assetMode = NETWORK_ASSETS ? 'network' : 'embedded';
+      // Both packages share a release ID, but their portrait URLs differ.
+      if (meta?.seedVersion === SEED.seedVersion && meta.assetMode === assetMode) return;
       await this.store.setItem('catalog', SEED.catalogBundle);
       await this.store.setItem('meta', {
         seedVersion: SEED.seedVersion,
+        assetMode,
         schemaVersion: 1,
         catalogVersion: SEED.catalogBundle.catalogVersion,
       });
