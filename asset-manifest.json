@@ -1,0 +1,1240 @@
+{
+  "schemaVersion": 1,
+  "version": "V0.3.11",
+  "buildId": "20260917-true-king-mobile-window-v0.3.11",
+  "site": "https://kulsetiid.github.io/true-king-roster/",
+  "assetBaseUrl": "https://kulsetiid.github.io/true-king-roster/assets/",
+  "cdnRepo": "kulsetiid/true-king-roster",
+  "assetCdnRef": "assets-v0.3.11",
+  "sourceScriptSha256": "2bf383f3d277fd46056818f5486e0b4ca26cbbd76228032cd73c7d7e16cb0249",
+  "sourceScriptBytes": 124375973,
+  "scriptSha256": "0b5d297f391d5d85928730138082f6850ecfc79668134e279d2c116d6a7ba859",
+  "scriptBytes": 863562,
+  "imageCount": 94,
+  "imageReferenceCount": 94,
+  "assetBytes": 92660501,
+  "assets": [
+    {
+      "path": "assets/d624cd4a278698d657261ab5155cfdc4273c5119b73204ab7e2a8c3ea67a4760.png",
+      "sha256": "d624cd4a278698d657261ab5155cfdc4273c5119b73204ab7e2a8c3ea67a4760",
+      "bytes": 2264555,
+      "mimeType": "image/png",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/d624cd4a278698d657261ab5155cfdc4273c5119b73204ab7e2a8c3ea67a4760.png",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/d624cd4a278698d657261ab5155cfdc4273c5119b73204ab7e2a8c3ea67a4760.png"
+      ],
+      "poolIndices": [
+        0
+      ]
+    },
+    {
+      "path": "assets/cd8d4756fa061f87152ed6ca77362760a96e208f09f06c3a49e5f021c2265120.webp",
+      "sha256": "cd8d4756fa061f87152ed6ca77362760a96e208f09f06c3a49e5f021c2265120",
+      "bytes": 98962,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/cd8d4756fa061f87152ed6ca77362760a96e208f09f06c3a49e5f021c2265120.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/cd8d4756fa061f87152ed6ca77362760a96e208f09f06c3a49e5f021c2265120.webp"
+      ],
+      "poolIndices": [
+        1
+      ]
+    },
+    {
+      "path": "assets/d81beff749532f8d2fa8df24d5fe1b15d1f29154aa90b21d488d9a48383c3bef.webp",
+      "sha256": "d81beff749532f8d2fa8df24d5fe1b15d1f29154aa90b21d488d9a48383c3bef",
+      "bytes": 999092,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/d81beff749532f8d2fa8df24d5fe1b15d1f29154aa90b21d488d9a48383c3bef.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/d81beff749532f8d2fa8df24d5fe1b15d1f29154aa90b21d488d9a48383c3bef.webp"
+      ],
+      "poolIndices": [
+        2
+      ]
+    },
+    {
+      "path": "assets/b013332fb131b09000167d684853146c2c10f1807d1b8f7d12f3d23e63cf9da1.png",
+      "sha256": "b013332fb131b09000167d684853146c2c10f1807d1b8f7d12f3d23e63cf9da1",
+      "bytes": 1767443,
+      "mimeType": "image/png",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/b013332fb131b09000167d684853146c2c10f1807d1b8f7d12f3d23e63cf9da1.png",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/b013332fb131b09000167d684853146c2c10f1807d1b8f7d12f3d23e63cf9da1.png"
+      ],
+      "poolIndices": [
+        3
+      ]
+    },
+    {
+      "path": "assets/141a85d7fa7007879224a6d490bc594e9f10a364b5601c4909e19f8a48f20c49.webp",
+      "sha256": "141a85d7fa7007879224a6d490bc594e9f10a364b5601c4909e19f8a48f20c49",
+      "bytes": 109822,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/141a85d7fa7007879224a6d490bc594e9f10a364b5601c4909e19f8a48f20c49.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/141a85d7fa7007879224a6d490bc594e9f10a364b5601c4909e19f8a48f20c49.webp"
+      ],
+      "poolIndices": [
+        4
+      ]
+    },
+    {
+      "path": "assets/bd0d36763533ffff0de8ec287cea463d8c20f219a5c8778b45cdfa03f63cadf3.png",
+      "sha256": "bd0d36763533ffff0de8ec287cea463d8c20f219a5c8778b45cdfa03f63cadf3",
+      "bytes": 1431374,
+      "mimeType": "image/png",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/bd0d36763533ffff0de8ec287cea463d8c20f219a5c8778b45cdfa03f63cadf3.png",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/bd0d36763533ffff0de8ec287cea463d8c20f219a5c8778b45cdfa03f63cadf3.png"
+      ],
+      "poolIndices": [
+        5
+      ]
+    },
+    {
+      "path": "assets/d9a6807dafe21a61548caafafffee45f6e73febd9a06b1e8f022b5bf6b39b36c.webp",
+      "sha256": "d9a6807dafe21a61548caafafffee45f6e73febd9a06b1e8f022b5bf6b39b36c",
+      "bytes": 106402,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/d9a6807dafe21a61548caafafffee45f6e73febd9a06b1e8f022b5bf6b39b36c.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/d9a6807dafe21a61548caafafffee45f6e73febd9a06b1e8f022b5bf6b39b36c.webp"
+      ],
+      "poolIndices": [
+        6
+      ]
+    },
+    {
+      "path": "assets/3bf8be58a79c0798f01d483c2414bc1e2bf061d83679b24315fef82dda6dc214.webp",
+      "sha256": "3bf8be58a79c0798f01d483c2414bc1e2bf061d83679b24315fef82dda6dc214",
+      "bytes": 308892,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/3bf8be58a79c0798f01d483c2414bc1e2bf061d83679b24315fef82dda6dc214.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/3bf8be58a79c0798f01d483c2414bc1e2bf061d83679b24315fef82dda6dc214.webp"
+      ],
+      "poolIndices": [
+        7
+      ]
+    },
+    {
+      "path": "assets/f5d5c5f3f364f77204a4bed9a6db5bd162a981297c6bfc5f2fddc84155003a58.webp",
+      "sha256": "f5d5c5f3f364f77204a4bed9a6db5bd162a981297c6bfc5f2fddc84155003a58",
+      "bytes": 357560,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/f5d5c5f3f364f77204a4bed9a6db5bd162a981297c6bfc5f2fddc84155003a58.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/f5d5c5f3f364f77204a4bed9a6db5bd162a981297c6bfc5f2fddc84155003a58.webp"
+      ],
+      "poolIndices": [
+        8
+      ]
+    },
+    {
+      "path": "assets/945f716c78e848151547a8e7ca875384cff6af31e00427016a5f23b1ad80dd7c.webp",
+      "sha256": "945f716c78e848151547a8e7ca875384cff6af31e00427016a5f23b1ad80dd7c",
+      "bytes": 1753118,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/945f716c78e848151547a8e7ca875384cff6af31e00427016a5f23b1ad80dd7c.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/945f716c78e848151547a8e7ca875384cff6af31e00427016a5f23b1ad80dd7c.webp"
+      ],
+      "poolIndices": [
+        9
+      ]
+    },
+    {
+      "path": "assets/fd77e2e2234c92b54675d299d6be271c6c378732fdfa067d95bcb712ac5fb4b0.webp",
+      "sha256": "fd77e2e2234c92b54675d299d6be271c6c378732fdfa067d95bcb712ac5fb4b0",
+      "bytes": 552270,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/fd77e2e2234c92b54675d299d6be271c6c378732fdfa067d95bcb712ac5fb4b0.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/fd77e2e2234c92b54675d299d6be271c6c378732fdfa067d95bcb712ac5fb4b0.webp"
+      ],
+      "poolIndices": [
+        10
+      ]
+    },
+    {
+      "path": "assets/1810d346ece349f4e1e2ba59e594828d7f6282794484a7b4fa87ad2a57f20a8b.webp",
+      "sha256": "1810d346ece349f4e1e2ba59e594828d7f6282794484a7b4fa87ad2a57f20a8b",
+      "bytes": 540226,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/1810d346ece349f4e1e2ba59e594828d7f6282794484a7b4fa87ad2a57f20a8b.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/1810d346ece349f4e1e2ba59e594828d7f6282794484a7b4fa87ad2a57f20a8b.webp"
+      ],
+      "poolIndices": [
+        11
+      ]
+    },
+    {
+      "path": "assets/d2a5f5ec73e62da7f35533586e6572066101077f4d2fcf8c26a4a44949a62a84.png",
+      "sha256": "d2a5f5ec73e62da7f35533586e6572066101077f4d2fcf8c26a4a44949a62a84",
+      "bytes": 1917669,
+      "mimeType": "image/png",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/d2a5f5ec73e62da7f35533586e6572066101077f4d2fcf8c26a4a44949a62a84.png",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/d2a5f5ec73e62da7f35533586e6572066101077f4d2fcf8c26a4a44949a62a84.png"
+      ],
+      "poolIndices": [
+        12
+      ]
+    },
+    {
+      "path": "assets/68cc7350f199a1db8d9ce181d596f6246a4a3719445f37e7b353144eb40c1f64.png",
+      "sha256": "68cc7350f199a1db8d9ce181d596f6246a4a3719445f37e7b353144eb40c1f64",
+      "bytes": 1910461,
+      "mimeType": "image/png",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/68cc7350f199a1db8d9ce181d596f6246a4a3719445f37e7b353144eb40c1f64.png",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/68cc7350f199a1db8d9ce181d596f6246a4a3719445f37e7b353144eb40c1f64.png"
+      ],
+      "poolIndices": [
+        13
+      ]
+    },
+    {
+      "path": "assets/621652039bb32b8b2add6e0a44b9b7f7904276ffce183814582139bd49b6b53e.png",
+      "sha256": "621652039bb32b8b2add6e0a44b9b7f7904276ffce183814582139bd49b6b53e",
+      "bytes": 2067460,
+      "mimeType": "image/png",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/621652039bb32b8b2add6e0a44b9b7f7904276ffce183814582139bd49b6b53e.png",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/621652039bb32b8b2add6e0a44b9b7f7904276ffce183814582139bd49b6b53e.png"
+      ],
+      "poolIndices": [
+        14
+      ]
+    },
+    {
+      "path": "assets/aa78139fa845ba5bd9d8ee9662384e326136c90f6e582e398a3a349b58ec7263.png",
+      "sha256": "aa78139fa845ba5bd9d8ee9662384e326136c90f6e582e398a3a349b58ec7263",
+      "bytes": 2181099,
+      "mimeType": "image/png",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/aa78139fa845ba5bd9d8ee9662384e326136c90f6e582e398a3a349b58ec7263.png",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/aa78139fa845ba5bd9d8ee9662384e326136c90f6e582e398a3a349b58ec7263.png"
+      ],
+      "poolIndices": [
+        15
+      ]
+    },
+    {
+      "path": "assets/5750bcfd16328f58a210576fbf84c5649d7605527c6ac81edc50109dcaf55ec6.webp",
+      "sha256": "5750bcfd16328f58a210576fbf84c5649d7605527c6ac81edc50109dcaf55ec6",
+      "bytes": 1690446,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/5750bcfd16328f58a210576fbf84c5649d7605527c6ac81edc50109dcaf55ec6.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/5750bcfd16328f58a210576fbf84c5649d7605527c6ac81edc50109dcaf55ec6.webp"
+      ],
+      "poolIndices": [
+        16
+      ]
+    },
+    {
+      "path": "assets/0ce8d1aeacc4e9784f03263d5d56001ebcd64414df8d6fca6af733be502915f2.webp",
+      "sha256": "0ce8d1aeacc4e9784f03263d5d56001ebcd64414df8d6fca6af733be502915f2",
+      "bytes": 5086816,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/0ce8d1aeacc4e9784f03263d5d56001ebcd64414df8d6fca6af733be502915f2.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/0ce8d1aeacc4e9784f03263d5d56001ebcd64414df8d6fca6af733be502915f2.webp"
+      ],
+      "poolIndices": [
+        17
+      ]
+    },
+    {
+      "path": "assets/fa0c194b58178b56273a7525c634aebdc7cbcb770f5c16b16d7591c2c2a8f6e3.webp",
+      "sha256": "fa0c194b58178b56273a7525c634aebdc7cbcb770f5c16b16d7591c2c2a8f6e3",
+      "bytes": 1245982,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/fa0c194b58178b56273a7525c634aebdc7cbcb770f5c16b16d7591c2c2a8f6e3.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/fa0c194b58178b56273a7525c634aebdc7cbcb770f5c16b16d7591c2c2a8f6e3.webp"
+      ],
+      "poolIndices": [
+        18
+      ]
+    },
+    {
+      "path": "assets/6c68fe0d7212d29c67ddb9d8180e9b2ac5ad42851c580eadcbb9feba5dd271b2.webp",
+      "sha256": "6c68fe0d7212d29c67ddb9d8180e9b2ac5ad42851c580eadcbb9feba5dd271b2",
+      "bytes": 1045468,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/6c68fe0d7212d29c67ddb9d8180e9b2ac5ad42851c580eadcbb9feba5dd271b2.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/6c68fe0d7212d29c67ddb9d8180e9b2ac5ad42851c580eadcbb9feba5dd271b2.webp"
+      ],
+      "poolIndices": [
+        19
+      ]
+    },
+    {
+      "path": "assets/8a60801ce92c3cc5ebaed8d7f46e55c11105e943700d6ad68e297cd9a7668f5a.webp",
+      "sha256": "8a60801ce92c3cc5ebaed8d7f46e55c11105e943700d6ad68e297cd9a7668f5a",
+      "bytes": 153824,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/8a60801ce92c3cc5ebaed8d7f46e55c11105e943700d6ad68e297cd9a7668f5a.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/8a60801ce92c3cc5ebaed8d7f46e55c11105e943700d6ad68e297cd9a7668f5a.webp"
+      ],
+      "poolIndices": [
+        20
+      ]
+    },
+    {
+      "path": "assets/a13804cc9737fa09f65a170007df26ed0b8d6b4e2daf02fb3a813827406a7f61.webp",
+      "sha256": "a13804cc9737fa09f65a170007df26ed0b8d6b4e2daf02fb3a813827406a7f61",
+      "bytes": 120448,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/a13804cc9737fa09f65a170007df26ed0b8d6b4e2daf02fb3a813827406a7f61.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/a13804cc9737fa09f65a170007df26ed0b8d6b4e2daf02fb3a813827406a7f61.webp"
+      ],
+      "poolIndices": [
+        21
+      ]
+    },
+    {
+      "path": "assets/55a4cd8794eea1b7f5e701e21042541045cec6fbcf2d8bc4e91f6242daa2a420.webp",
+      "sha256": "55a4cd8794eea1b7f5e701e21042541045cec6fbcf2d8bc4e91f6242daa2a420",
+      "bytes": 659844,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/55a4cd8794eea1b7f5e701e21042541045cec6fbcf2d8bc4e91f6242daa2a420.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/55a4cd8794eea1b7f5e701e21042541045cec6fbcf2d8bc4e91f6242daa2a420.webp"
+      ],
+      "poolIndices": [
+        22
+      ]
+    },
+    {
+      "path": "assets/67455abd5f89c68a1275629da5c72532b72ebad58561b3bc2b75158977a63686.webp",
+      "sha256": "67455abd5f89c68a1275629da5c72532b72ebad58561b3bc2b75158977a63686",
+      "bytes": 953018,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/67455abd5f89c68a1275629da5c72532b72ebad58561b3bc2b75158977a63686.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/67455abd5f89c68a1275629da5c72532b72ebad58561b3bc2b75158977a63686.webp"
+      ],
+      "poolIndices": [
+        23
+      ]
+    },
+    {
+      "path": "assets/9232a59f01705fa695763157b5953034283aeb9f2a16a891d545548a07d7b2f2.webp",
+      "sha256": "9232a59f01705fa695763157b5953034283aeb9f2a16a891d545548a07d7b2f2",
+      "bytes": 771340,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/9232a59f01705fa695763157b5953034283aeb9f2a16a891d545548a07d7b2f2.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/9232a59f01705fa695763157b5953034283aeb9f2a16a891d545548a07d7b2f2.webp"
+      ],
+      "poolIndices": [
+        24
+      ]
+    },
+    {
+      "path": "assets/ca5f1e62ac0321f8308186b6ff84593043570641a967e22a2043f670b9b6cd35.webp",
+      "sha256": "ca5f1e62ac0321f8308186b6ff84593043570641a967e22a2043f670b9b6cd35",
+      "bytes": 1156698,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/ca5f1e62ac0321f8308186b6ff84593043570641a967e22a2043f670b9b6cd35.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/ca5f1e62ac0321f8308186b6ff84593043570641a967e22a2043f670b9b6cd35.webp"
+      ],
+      "poolIndices": [
+        25
+      ]
+    },
+    {
+      "path": "assets/8d2d6d3f8070d608ff277c2582d7f67c9fe3a877700870d0a766443f9b0a9c9b.webp",
+      "sha256": "8d2d6d3f8070d608ff277c2582d7f67c9fe3a877700870d0a766443f9b0a9c9b",
+      "bytes": 624704,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/8d2d6d3f8070d608ff277c2582d7f67c9fe3a877700870d0a766443f9b0a9c9b.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/8d2d6d3f8070d608ff277c2582d7f67c9fe3a877700870d0a766443f9b0a9c9b.webp"
+      ],
+      "poolIndices": [
+        26
+      ]
+    },
+    {
+      "path": "assets/770884ad4217f9baa1f8f95a3ce9fdb65f422f4c3051f5948a4a8e8dd96a95ba.webp",
+      "sha256": "770884ad4217f9baa1f8f95a3ce9fdb65f422f4c3051f5948a4a8e8dd96a95ba",
+      "bytes": 1254168,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/770884ad4217f9baa1f8f95a3ce9fdb65f422f4c3051f5948a4a8e8dd96a95ba.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/770884ad4217f9baa1f8f95a3ce9fdb65f422f4c3051f5948a4a8e8dd96a95ba.webp"
+      ],
+      "poolIndices": [
+        27
+      ]
+    },
+    {
+      "path": "assets/d2f178f066d06a658ce56859f6e8b4aa063ad39eea2c6d04f84cd28136774b09.webp",
+      "sha256": "d2f178f066d06a658ce56859f6e8b4aa063ad39eea2c6d04f84cd28136774b09",
+      "bytes": 753220,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/d2f178f066d06a658ce56859f6e8b4aa063ad39eea2c6d04f84cd28136774b09.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/d2f178f066d06a658ce56859f6e8b4aa063ad39eea2c6d04f84cd28136774b09.webp"
+      ],
+      "poolIndices": [
+        28
+      ]
+    },
+    {
+      "path": "assets/4df2542379729392acefa71f11b1648ce5a6605c08d4fd1c940fbdc84ccf3578.webp",
+      "sha256": "4df2542379729392acefa71f11b1648ce5a6605c08d4fd1c940fbdc84ccf3578",
+      "bytes": 471804,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/4df2542379729392acefa71f11b1648ce5a6605c08d4fd1c940fbdc84ccf3578.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/4df2542379729392acefa71f11b1648ce5a6605c08d4fd1c940fbdc84ccf3578.webp"
+      ],
+      "poolIndices": [
+        29
+      ]
+    },
+    {
+      "path": "assets/967edc2fe71f340b166a675e88ab7db2587fc4ac5fb293978328799a5c58bd1e.webp",
+      "sha256": "967edc2fe71f340b166a675e88ab7db2587fc4ac5fb293978328799a5c58bd1e",
+      "bytes": 466064,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/967edc2fe71f340b166a675e88ab7db2587fc4ac5fb293978328799a5c58bd1e.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/967edc2fe71f340b166a675e88ab7db2587fc4ac5fb293978328799a5c58bd1e.webp"
+      ],
+      "poolIndices": [
+        30
+      ]
+    },
+    {
+      "path": "assets/4326e8d44689d1e947dbe61b1513af46652cb844aaf19c61c567b8c19febfe70.webp",
+      "sha256": "4326e8d44689d1e947dbe61b1513af46652cb844aaf19c61c567b8c19febfe70",
+      "bytes": 520954,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/4326e8d44689d1e947dbe61b1513af46652cb844aaf19c61c567b8c19febfe70.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/4326e8d44689d1e947dbe61b1513af46652cb844aaf19c61c567b8c19febfe70.webp"
+      ],
+      "poolIndices": [
+        31
+      ]
+    },
+    {
+      "path": "assets/295fed630a381a0e238bf53434aa0fa20fc5fa96a239afc0c80eb8f2543b7905.webp",
+      "sha256": "295fed630a381a0e238bf53434aa0fa20fc5fa96a239afc0c80eb8f2543b7905",
+      "bytes": 965094,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/295fed630a381a0e238bf53434aa0fa20fc5fa96a239afc0c80eb8f2543b7905.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/295fed630a381a0e238bf53434aa0fa20fc5fa96a239afc0c80eb8f2543b7905.webp"
+      ],
+      "poolIndices": [
+        32
+      ]
+    },
+    {
+      "path": "assets/eb1579afa2600f19e1da09f8fbcd90b1485fce007920e7381547a67ad777d8bf.webp",
+      "sha256": "eb1579afa2600f19e1da09f8fbcd90b1485fce007920e7381547a67ad777d8bf",
+      "bytes": 942540,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/eb1579afa2600f19e1da09f8fbcd90b1485fce007920e7381547a67ad777d8bf.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/eb1579afa2600f19e1da09f8fbcd90b1485fce007920e7381547a67ad777d8bf.webp"
+      ],
+      "poolIndices": [
+        33
+      ]
+    },
+    {
+      "path": "assets/b09338483ba105cea595fa769c63ff98c0ba9ea0c81d95e2befc49c9e24f60bb.webp",
+      "sha256": "b09338483ba105cea595fa769c63ff98c0ba9ea0c81d95e2befc49c9e24f60bb",
+      "bytes": 948474,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/b09338483ba105cea595fa769c63ff98c0ba9ea0c81d95e2befc49c9e24f60bb.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/b09338483ba105cea595fa769c63ff98c0ba9ea0c81d95e2befc49c9e24f60bb.webp"
+      ],
+      "poolIndices": [
+        34
+      ]
+    },
+    {
+      "path": "assets/9b31118efa77bd5f1c882a6c54e69e3855eabb6fcbc30a376c9e799c98a8d11e.webp",
+      "sha256": "9b31118efa77bd5f1c882a6c54e69e3855eabb6fcbc30a376c9e799c98a8d11e",
+      "bytes": 879752,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/9b31118efa77bd5f1c882a6c54e69e3855eabb6fcbc30a376c9e799c98a8d11e.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/9b31118efa77bd5f1c882a6c54e69e3855eabb6fcbc30a376c9e799c98a8d11e.webp"
+      ],
+      "poolIndices": [
+        35
+      ]
+    },
+    {
+      "path": "assets/591500249525fede1f6691c2ad5c0fafc0c4eca1aa9f672bbda6186ccba78ec0.webp",
+      "sha256": "591500249525fede1f6691c2ad5c0fafc0c4eca1aa9f672bbda6186ccba78ec0",
+      "bytes": 864144,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/591500249525fede1f6691c2ad5c0fafc0c4eca1aa9f672bbda6186ccba78ec0.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/591500249525fede1f6691c2ad5c0fafc0c4eca1aa9f672bbda6186ccba78ec0.webp"
+      ],
+      "poolIndices": [
+        36
+      ]
+    },
+    {
+      "path": "assets/435ce26714785168270c7042949cb6c6a958bf5e411a38d2f8a097e804cf5fcc.webp",
+      "sha256": "435ce26714785168270c7042949cb6c6a958bf5e411a38d2f8a097e804cf5fcc",
+      "bytes": 863028,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/435ce26714785168270c7042949cb6c6a958bf5e411a38d2f8a097e804cf5fcc.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/435ce26714785168270c7042949cb6c6a958bf5e411a38d2f8a097e804cf5fcc.webp"
+      ],
+      "poolIndices": [
+        37
+      ]
+    },
+    {
+      "path": "assets/26f38dc0478e75ec0d1ce60ee0a83870d8c99ae5115f2d5152e82e47cbe0ea12.webp",
+      "sha256": "26f38dc0478e75ec0d1ce60ee0a83870d8c99ae5115f2d5152e82e47cbe0ea12",
+      "bytes": 1327148,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/26f38dc0478e75ec0d1ce60ee0a83870d8c99ae5115f2d5152e82e47cbe0ea12.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/26f38dc0478e75ec0d1ce60ee0a83870d8c99ae5115f2d5152e82e47cbe0ea12.webp"
+      ],
+      "poolIndices": [
+        38
+      ]
+    },
+    {
+      "path": "assets/37a6fab4b9d9627b4cc4d00ee44d2b0888371b312e12de84f4b87db97ddc70d8.webp",
+      "sha256": "37a6fab4b9d9627b4cc4d00ee44d2b0888371b312e12de84f4b87db97ddc70d8",
+      "bytes": 1248692,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/37a6fab4b9d9627b4cc4d00ee44d2b0888371b312e12de84f4b87db97ddc70d8.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/37a6fab4b9d9627b4cc4d00ee44d2b0888371b312e12de84f4b87db97ddc70d8.webp"
+      ],
+      "poolIndices": [
+        39
+      ]
+    },
+    {
+      "path": "assets/255afc2fd56e7e0989f9927faf959bbd3151521a1777c937b5046b74dad5daf0.webp",
+      "sha256": "255afc2fd56e7e0989f9927faf959bbd3151521a1777c937b5046b74dad5daf0",
+      "bytes": 1260948,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/255afc2fd56e7e0989f9927faf959bbd3151521a1777c937b5046b74dad5daf0.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/255afc2fd56e7e0989f9927faf959bbd3151521a1777c937b5046b74dad5daf0.webp"
+      ],
+      "poolIndices": [
+        40
+      ]
+    },
+    {
+      "path": "assets/4edeb2257a3a64aa60fa19d7470afc5180b9754d6f62cbcba57309ab1267abc5.webp",
+      "sha256": "4edeb2257a3a64aa60fa19d7470afc5180b9754d6f62cbcba57309ab1267abc5",
+      "bytes": 1000432,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/4edeb2257a3a64aa60fa19d7470afc5180b9754d6f62cbcba57309ab1267abc5.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/4edeb2257a3a64aa60fa19d7470afc5180b9754d6f62cbcba57309ab1267abc5.webp"
+      ],
+      "poolIndices": [
+        41
+      ]
+    },
+    {
+      "path": "assets/78883d3d4b41be3ab038a6531c80b9c2c385c132b9b97c4099e6cf4de35b2049.webp",
+      "sha256": "78883d3d4b41be3ab038a6531c80b9c2c385c132b9b97c4099e6cf4de35b2049",
+      "bytes": 984326,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/78883d3d4b41be3ab038a6531c80b9c2c385c132b9b97c4099e6cf4de35b2049.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/78883d3d4b41be3ab038a6531c80b9c2c385c132b9b97c4099e6cf4de35b2049.webp"
+      ],
+      "poolIndices": [
+        42
+      ]
+    },
+    {
+      "path": "assets/e9712dd0d0e4c2a566e8e936b12e44a4f2ec08261b11ea7aabdadd639b046a40.webp",
+      "sha256": "e9712dd0d0e4c2a566e8e936b12e44a4f2ec08261b11ea7aabdadd639b046a40",
+      "bytes": 1022476,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/e9712dd0d0e4c2a566e8e936b12e44a4f2ec08261b11ea7aabdadd639b046a40.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/e9712dd0d0e4c2a566e8e936b12e44a4f2ec08261b11ea7aabdadd639b046a40.webp"
+      ],
+      "poolIndices": [
+        43
+      ]
+    },
+    {
+      "path": "assets/e443ffc903af201792d36836f8722ed3b3406753643540be1b5d0cc87c11865a.webp",
+      "sha256": "e443ffc903af201792d36836f8722ed3b3406753643540be1b5d0cc87c11865a",
+      "bytes": 1062270,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/e443ffc903af201792d36836f8722ed3b3406753643540be1b5d0cc87c11865a.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/e443ffc903af201792d36836f8722ed3b3406753643540be1b5d0cc87c11865a.webp"
+      ],
+      "poolIndices": [
+        44
+      ]
+    },
+    {
+      "path": "assets/15bb66a675db23dfbcc942a10118114808031d04bd3376f9735f285ba23b2739.webp",
+      "sha256": "15bb66a675db23dfbcc942a10118114808031d04bd3376f9735f285ba23b2739",
+      "bytes": 1051946,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/15bb66a675db23dfbcc942a10118114808031d04bd3376f9735f285ba23b2739.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/15bb66a675db23dfbcc942a10118114808031d04bd3376f9735f285ba23b2739.webp"
+      ],
+      "poolIndices": [
+        45
+      ]
+    },
+    {
+      "path": "assets/4fac815e935c760b8ffd48506b43e3f3f95d32e3f34986dd40e461252307886e.webp",
+      "sha256": "4fac815e935c760b8ffd48506b43e3f3f95d32e3f34986dd40e461252307886e",
+      "bytes": 1049224,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/4fac815e935c760b8ffd48506b43e3f3f95d32e3f34986dd40e461252307886e.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/4fac815e935c760b8ffd48506b43e3f3f95d32e3f34986dd40e461252307886e.webp"
+      ],
+      "poolIndices": [
+        46
+      ]
+    },
+    {
+      "path": "assets/607c3a4cc670e1d57ea1656ff3c396500dc4526c6b1285aa9f75b26307ebe9a6.webp",
+      "sha256": "607c3a4cc670e1d57ea1656ff3c396500dc4526c6b1285aa9f75b26307ebe9a6",
+      "bytes": 474898,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/607c3a4cc670e1d57ea1656ff3c396500dc4526c6b1285aa9f75b26307ebe9a6.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/607c3a4cc670e1d57ea1656ff3c396500dc4526c6b1285aa9f75b26307ebe9a6.webp"
+      ],
+      "poolIndices": [
+        47
+      ]
+    },
+    {
+      "path": "assets/af56e21c844af00d73f663461d3e6338ee2ec41dadc8f3383387378f48b4d7d8.webp",
+      "sha256": "af56e21c844af00d73f663461d3e6338ee2ec41dadc8f3383387378f48b4d7d8",
+      "bytes": 444318,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/af56e21c844af00d73f663461d3e6338ee2ec41dadc8f3383387378f48b4d7d8.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/af56e21c844af00d73f663461d3e6338ee2ec41dadc8f3383387378f48b4d7d8.webp"
+      ],
+      "poolIndices": [
+        48
+      ]
+    },
+    {
+      "path": "assets/2505da002b5a856d48197fd8ce3c139112b0e6245810c564656b16a4b76534cf.webp",
+      "sha256": "2505da002b5a856d48197fd8ce3c139112b0e6245810c564656b16a4b76534cf",
+      "bytes": 864264,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/2505da002b5a856d48197fd8ce3c139112b0e6245810c564656b16a4b76534cf.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/2505da002b5a856d48197fd8ce3c139112b0e6245810c564656b16a4b76534cf.webp"
+      ],
+      "poolIndices": [
+        49
+      ]
+    },
+    {
+      "path": "assets/4e08a0e4e4550cd2d4a0054cb295a24fc7b7b182f3b3d06120872b0a62b76d99.webp",
+      "sha256": "4e08a0e4e4550cd2d4a0054cb295a24fc7b7b182f3b3d06120872b0a62b76d99",
+      "bytes": 658770,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/4e08a0e4e4550cd2d4a0054cb295a24fc7b7b182f3b3d06120872b0a62b76d99.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/4e08a0e4e4550cd2d4a0054cb295a24fc7b7b182f3b3d06120872b0a62b76d99.webp"
+      ],
+      "poolIndices": [
+        50
+      ]
+    },
+    {
+      "path": "assets/2c7fcc44176f03716552728485ef0656856af881370436bfa3a98458b3862017.webp",
+      "sha256": "2c7fcc44176f03716552728485ef0656856af881370436bfa3a98458b3862017",
+      "bytes": 642516,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/2c7fcc44176f03716552728485ef0656856af881370436bfa3a98458b3862017.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/2c7fcc44176f03716552728485ef0656856af881370436bfa3a98458b3862017.webp"
+      ],
+      "poolIndices": [
+        51
+      ]
+    },
+    {
+      "path": "assets/5c04a762b9c7139d997ef25698b7365b43a22e65a1e451efd40c6dec643d8a6d.webp",
+      "sha256": "5c04a762b9c7139d997ef25698b7365b43a22e65a1e451efd40c6dec643d8a6d",
+      "bytes": 618402,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/5c04a762b9c7139d997ef25698b7365b43a22e65a1e451efd40c6dec643d8a6d.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/5c04a762b9c7139d997ef25698b7365b43a22e65a1e451efd40c6dec643d8a6d.webp"
+      ],
+      "poolIndices": [
+        52
+      ]
+    },
+    {
+      "path": "assets/2a5169f943356c9f172c50ef06b591f5dcde4e21ea20f2fb2ece4cb7a6147139.webp",
+      "sha256": "2a5169f943356c9f172c50ef06b591f5dcde4e21ea20f2fb2ece4cb7a6147139",
+      "bytes": 804388,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/2a5169f943356c9f172c50ef06b591f5dcde4e21ea20f2fb2ece4cb7a6147139.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/2a5169f943356c9f172c50ef06b591f5dcde4e21ea20f2fb2ece4cb7a6147139.webp"
+      ],
+      "poolIndices": [
+        53
+      ]
+    },
+    {
+      "path": "assets/7a63a01ddf685e710bf37e44feef3e1adb9a0b6f5739d0c4c11a5e28268c8eeb.webp",
+      "sha256": "7a63a01ddf685e710bf37e44feef3e1adb9a0b6f5739d0c4c11a5e28268c8eeb",
+      "bytes": 801618,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/7a63a01ddf685e710bf37e44feef3e1adb9a0b6f5739d0c4c11a5e28268c8eeb.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/7a63a01ddf685e710bf37e44feef3e1adb9a0b6f5739d0c4c11a5e28268c8eeb.webp"
+      ],
+      "poolIndices": [
+        54
+      ]
+    },
+    {
+      "path": "assets/69c5f03de482085a783096f6ae7753eb667902c5699085af622edae4ef59003a.webp",
+      "sha256": "69c5f03de482085a783096f6ae7753eb667902c5699085af622edae4ef59003a",
+      "bytes": 800280,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/69c5f03de482085a783096f6ae7753eb667902c5699085af622edae4ef59003a.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/69c5f03de482085a783096f6ae7753eb667902c5699085af622edae4ef59003a.webp"
+      ],
+      "poolIndices": [
+        55
+      ]
+    },
+    {
+      "path": "assets/ea545f5e589f6b80c0eedc1519283b611fc0268bf9ce3adbb3830f7c3c60656f.webp",
+      "sha256": "ea545f5e589f6b80c0eedc1519283b611fc0268bf9ce3adbb3830f7c3c60656f",
+      "bytes": 1194346,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/ea545f5e589f6b80c0eedc1519283b611fc0268bf9ce3adbb3830f7c3c60656f.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/ea545f5e589f6b80c0eedc1519283b611fc0268bf9ce3adbb3830f7c3c60656f.webp"
+      ],
+      "poolIndices": [
+        56
+      ]
+    },
+    {
+      "path": "assets/9c951d5e6c3c835bf28b67902901666e6161e2443063dc6b842ddaca8aa7c636.webp",
+      "sha256": "9c951d5e6c3c835bf28b67902901666e6161e2443063dc6b842ddaca8aa7c636",
+      "bytes": 1182228,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/9c951d5e6c3c835bf28b67902901666e6161e2443063dc6b842ddaca8aa7c636.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/9c951d5e6c3c835bf28b67902901666e6161e2443063dc6b842ddaca8aa7c636.webp"
+      ],
+      "poolIndices": [
+        57
+      ]
+    },
+    {
+      "path": "assets/6d8930b5d5f130d658ab5d4a6e92614deef0d36043bcd4ae702299bc98c1605f.webp",
+      "sha256": "6d8930b5d5f130d658ab5d4a6e92614deef0d36043bcd4ae702299bc98c1605f",
+      "bytes": 1193964,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/6d8930b5d5f130d658ab5d4a6e92614deef0d36043bcd4ae702299bc98c1605f.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/6d8930b5d5f130d658ab5d4a6e92614deef0d36043bcd4ae702299bc98c1605f.webp"
+      ],
+      "poolIndices": [
+        58
+      ]
+    },
+    {
+      "path": "assets/b040330f4db8f2e1229615cc0e854dac3b16a974efbe3bda5c8a2ce664f3f465.webp",
+      "sha256": "b040330f4db8f2e1229615cc0e854dac3b16a974efbe3bda5c8a2ce664f3f465",
+      "bytes": 1019602,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/b040330f4db8f2e1229615cc0e854dac3b16a974efbe3bda5c8a2ce664f3f465.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/b040330f4db8f2e1229615cc0e854dac3b16a974efbe3bda5c8a2ce664f3f465.webp"
+      ],
+      "poolIndices": [
+        59
+      ]
+    },
+    {
+      "path": "assets/41022c39cf01b6254b7eb0692f8286a68cc9a0d69751cc3be9e7b8e9bf7712fe.webp",
+      "sha256": "41022c39cf01b6254b7eb0692f8286a68cc9a0d69751cc3be9e7b8e9bf7712fe",
+      "bytes": 1000978,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/41022c39cf01b6254b7eb0692f8286a68cc9a0d69751cc3be9e7b8e9bf7712fe.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/41022c39cf01b6254b7eb0692f8286a68cc9a0d69751cc3be9e7b8e9bf7712fe.webp"
+      ],
+      "poolIndices": [
+        60
+      ]
+    },
+    {
+      "path": "assets/4df38f1344109e02922544efe8bd3080215182f51829da095a48b57904a5ab7e.webp",
+      "sha256": "4df38f1344109e02922544efe8bd3080215182f51829da095a48b57904a5ab7e",
+      "bytes": 1017836,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/4df38f1344109e02922544efe8bd3080215182f51829da095a48b57904a5ab7e.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/4df38f1344109e02922544efe8bd3080215182f51829da095a48b57904a5ab7e.webp"
+      ],
+      "poolIndices": [
+        61
+      ]
+    },
+    {
+      "path": "assets/1acdedbb10d92ff3e70b2825ca4f4668c2d8d4f9eda575188313e0d561249816.webp",
+      "sha256": "1acdedbb10d92ff3e70b2825ca4f4668c2d8d4f9eda575188313e0d561249816",
+      "bytes": 1785856,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/1acdedbb10d92ff3e70b2825ca4f4668c2d8d4f9eda575188313e0d561249816.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/1acdedbb10d92ff3e70b2825ca4f4668c2d8d4f9eda575188313e0d561249816.webp"
+      ],
+      "poolIndices": [
+        62
+      ]
+    },
+    {
+      "path": "assets/0b0f2227fa125c93f14af0aff866fed295d9f0e313f12bdb9c940597cb44ad0f.webp",
+      "sha256": "0b0f2227fa125c93f14af0aff866fed295d9f0e313f12bdb9c940597cb44ad0f",
+      "bytes": 1744788,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/0b0f2227fa125c93f14af0aff866fed295d9f0e313f12bdb9c940597cb44ad0f.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/0b0f2227fa125c93f14af0aff866fed295d9f0e313f12bdb9c940597cb44ad0f.webp"
+      ],
+      "poolIndices": [
+        63
+      ]
+    },
+    {
+      "path": "assets/83fcf6ff2729eb9ad3c8dc38394fc0aebd9ab030cbce2f9ac98c30c27dd005b5.webp",
+      "sha256": "83fcf6ff2729eb9ad3c8dc38394fc0aebd9ab030cbce2f9ac98c30c27dd005b5",
+      "bytes": 961374,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/83fcf6ff2729eb9ad3c8dc38394fc0aebd9ab030cbce2f9ac98c30c27dd005b5.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/83fcf6ff2729eb9ad3c8dc38394fc0aebd9ab030cbce2f9ac98c30c27dd005b5.webp"
+      ],
+      "poolIndices": [
+        64
+      ]
+    },
+    {
+      "path": "assets/0d1265346815c27a4d8ea014d0483e5cd70a147916a1db5b13622fae0bfb8e1f.webp",
+      "sha256": "0d1265346815c27a4d8ea014d0483e5cd70a147916a1db5b13622fae0bfb8e1f",
+      "bytes": 269566,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/0d1265346815c27a4d8ea014d0483e5cd70a147916a1db5b13622fae0bfb8e1f.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/0d1265346815c27a4d8ea014d0483e5cd70a147916a1db5b13622fae0bfb8e1f.webp"
+      ],
+      "poolIndices": [
+        65
+      ]
+    },
+    {
+      "path": "assets/31b8aa233dbdd565062f4f6cbfb1e2a228901737dc53ed9831677b8bd62a3f09.webp",
+      "sha256": "31b8aa233dbdd565062f4f6cbfb1e2a228901737dc53ed9831677b8bd62a3f09",
+      "bytes": 288424,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/31b8aa233dbdd565062f4f6cbfb1e2a228901737dc53ed9831677b8bd62a3f09.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/31b8aa233dbdd565062f4f6cbfb1e2a228901737dc53ed9831677b8bd62a3f09.webp"
+      ],
+      "poolIndices": [
+        66
+      ]
+    },
+    {
+      "path": "assets/40f6b193c0aa3c680b13636ef1ce72c36d9e25e71a1d54bc397ec506d3786990.webp",
+      "sha256": "40f6b193c0aa3c680b13636ef1ce72c36d9e25e71a1d54bc397ec506d3786990",
+      "bytes": 1281486,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/40f6b193c0aa3c680b13636ef1ce72c36d9e25e71a1d54bc397ec506d3786990.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/40f6b193c0aa3c680b13636ef1ce72c36d9e25e71a1d54bc397ec506d3786990.webp"
+      ],
+      "poolIndices": [
+        67
+      ]
+    },
+    {
+      "path": "assets/a82970744adb0254167f736f1f1eef9e0708b59f264a8c4aad90b44bde49ad3c.webp",
+      "sha256": "a82970744adb0254167f736f1f1eef9e0708b59f264a8c4aad90b44bde49ad3c",
+      "bytes": 944000,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/a82970744adb0254167f736f1f1eef9e0708b59f264a8c4aad90b44bde49ad3c.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/a82970744adb0254167f736f1f1eef9e0708b59f264a8c4aad90b44bde49ad3c.webp"
+      ],
+      "poolIndices": [
+        68
+      ]
+    },
+    {
+      "path": "assets/203f6ce8ad742b1f714fb3bcc430ba96cfa88417147ed22a04e29587bdf3be89.webp",
+      "sha256": "203f6ce8ad742b1f714fb3bcc430ba96cfa88417147ed22a04e29587bdf3be89",
+      "bytes": 591972,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/203f6ce8ad742b1f714fb3bcc430ba96cfa88417147ed22a04e29587bdf3be89.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/203f6ce8ad742b1f714fb3bcc430ba96cfa88417147ed22a04e29587bdf3be89.webp"
+      ],
+      "poolIndices": [
+        69
+      ]
+    },
+    {
+      "path": "assets/34cae453217dfdbe1a3e4138fb204cc44818b17cde098a29d12d74938f4ee788.webp",
+      "sha256": "34cae453217dfdbe1a3e4138fb204cc44818b17cde098a29d12d74938f4ee788",
+      "bytes": 868334,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/34cae453217dfdbe1a3e4138fb204cc44818b17cde098a29d12d74938f4ee788.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/34cae453217dfdbe1a3e4138fb204cc44818b17cde098a29d12d74938f4ee788.webp"
+      ],
+      "poolIndices": [
+        70
+      ]
+    },
+    {
+      "path": "assets/b23aa24da2965819db55a48738d4f9674090491e04bea7883aad9f72ea54e323.webp",
+      "sha256": "b23aa24da2965819db55a48738d4f9674090491e04bea7883aad9f72ea54e323",
+      "bytes": 659194,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/b23aa24da2965819db55a48738d4f9674090491e04bea7883aad9f72ea54e323.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/b23aa24da2965819db55a48738d4f9674090491e04bea7883aad9f72ea54e323.webp"
+      ],
+      "poolIndices": [
+        71
+      ]
+    },
+    {
+      "path": "assets/f39f1df8aed61122b22642804dafaecdc44b60a907a504cbc5c0e1de2abfc702.webp",
+      "sha256": "f39f1df8aed61122b22642804dafaecdc44b60a907a504cbc5c0e1de2abfc702",
+      "bytes": 728058,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/f39f1df8aed61122b22642804dafaecdc44b60a907a504cbc5c0e1de2abfc702.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/f39f1df8aed61122b22642804dafaecdc44b60a907a504cbc5c0e1de2abfc702.webp"
+      ],
+      "poolIndices": [
+        72
+      ]
+    },
+    {
+      "path": "assets/3931013984fc3301fd59a3072ff187df2857368c7070f5286187a92072903971.webp",
+      "sha256": "3931013984fc3301fd59a3072ff187df2857368c7070f5286187a92072903971",
+      "bytes": 842110,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/3931013984fc3301fd59a3072ff187df2857368c7070f5286187a92072903971.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/3931013984fc3301fd59a3072ff187df2857368c7070f5286187a92072903971.webp"
+      ],
+      "poolIndices": [
+        73
+      ]
+    },
+    {
+      "path": "assets/39432a96d09c3ee665a2b7bab32c6285669393d551eafdd07e6bfb4dde0ba70b.webp",
+      "sha256": "39432a96d09c3ee665a2b7bab32c6285669393d551eafdd07e6bfb4dde0ba70b",
+      "bytes": 790196,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/39432a96d09c3ee665a2b7bab32c6285669393d551eafdd07e6bfb4dde0ba70b.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/39432a96d09c3ee665a2b7bab32c6285669393d551eafdd07e6bfb4dde0ba70b.webp"
+      ],
+      "poolIndices": [
+        74
+      ]
+    },
+    {
+      "path": "assets/2da06778295716b5ad0aedc1abaea6e936f6d470ae3f42c4a8153c3c8195912f.webp",
+      "sha256": "2da06778295716b5ad0aedc1abaea6e936f6d470ae3f42c4a8153c3c8195912f",
+      "bytes": 865806,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/2da06778295716b5ad0aedc1abaea6e936f6d470ae3f42c4a8153c3c8195912f.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/2da06778295716b5ad0aedc1abaea6e936f6d470ae3f42c4a8153c3c8195912f.webp"
+      ],
+      "poolIndices": [
+        75
+      ]
+    },
+    {
+      "path": "assets/4e7df08f43dd21cfeb3c969fef0229c35238aed14a19ddf41d73472d91854986.webp",
+      "sha256": "4e7df08f43dd21cfeb3c969fef0229c35238aed14a19ddf41d73472d91854986",
+      "bytes": 699290,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/4e7df08f43dd21cfeb3c969fef0229c35238aed14a19ddf41d73472d91854986.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/4e7df08f43dd21cfeb3c969fef0229c35238aed14a19ddf41d73472d91854986.webp"
+      ],
+      "poolIndices": [
+        76
+      ]
+    },
+    {
+      "path": "assets/d7677fa435570772f37f68e4774d89bfe07e5940e385add8b9c79968027d1b68.webp",
+      "sha256": "d7677fa435570772f37f68e4774d89bfe07e5940e385add8b9c79968027d1b68",
+      "bytes": 676110,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/d7677fa435570772f37f68e4774d89bfe07e5940e385add8b9c79968027d1b68.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/d7677fa435570772f37f68e4774d89bfe07e5940e385add8b9c79968027d1b68.webp"
+      ],
+      "poolIndices": [
+        77
+      ]
+    },
+    {
+      "path": "assets/50678475a56216933ccc22840d372699d98cdb11ed4f5f2470c716d7113de136.webp",
+      "sha256": "50678475a56216933ccc22840d372699d98cdb11ed4f5f2470c716d7113de136",
+      "bytes": 838478,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/50678475a56216933ccc22840d372699d98cdb11ed4f5f2470c716d7113de136.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/50678475a56216933ccc22840d372699d98cdb11ed4f5f2470c716d7113de136.webp"
+      ],
+      "poolIndices": [
+        78
+      ]
+    },
+    {
+      "path": "assets/62b7f28ac6c48f4e6efd77b35f4b4d858d1c91f238136c57b42c556bea73cdc2.webp",
+      "sha256": "62b7f28ac6c48f4e6efd77b35f4b4d858d1c91f238136c57b42c556bea73cdc2",
+      "bytes": 596336,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/62b7f28ac6c48f4e6efd77b35f4b4d858d1c91f238136c57b42c556bea73cdc2.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/62b7f28ac6c48f4e6efd77b35f4b4d858d1c91f238136c57b42c556bea73cdc2.webp"
+      ],
+      "poolIndices": [
+        79
+      ]
+    },
+    {
+      "path": "assets/e195f841ae9867660175037dd21e96102b9ec0c1f2878a927d09905adf9b2221.webp",
+      "sha256": "e195f841ae9867660175037dd21e96102b9ec0c1f2878a927d09905adf9b2221",
+      "bytes": 604798,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/e195f841ae9867660175037dd21e96102b9ec0c1f2878a927d09905adf9b2221.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/e195f841ae9867660175037dd21e96102b9ec0c1f2878a927d09905adf9b2221.webp"
+      ],
+      "poolIndices": [
+        80
+      ]
+    },
+    {
+      "path": "assets/4be133acbac511db7c1856db6c5c67389ad14a48a76dee8ed275c77d944a5e25.webp",
+      "sha256": "4be133acbac511db7c1856db6c5c67389ad14a48a76dee8ed275c77d944a5e25",
+      "bytes": 1403658,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/4be133acbac511db7c1856db6c5c67389ad14a48a76dee8ed275c77d944a5e25.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/4be133acbac511db7c1856db6c5c67389ad14a48a76dee8ed275c77d944a5e25.webp"
+      ],
+      "poolIndices": [
+        81
+      ]
+    },
+    {
+      "path": "assets/f1b8db02642e9f2d7433defa6b0e417c49c8090a50241fba6f281e616e4b3698.webp",
+      "sha256": "f1b8db02642e9f2d7433defa6b0e417c49c8090a50241fba6f281e616e4b3698",
+      "bytes": 729176,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/f1b8db02642e9f2d7433defa6b0e417c49c8090a50241fba6f281e616e4b3698.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/f1b8db02642e9f2d7433defa6b0e417c49c8090a50241fba6f281e616e4b3698.webp"
+      ],
+      "poolIndices": [
+        82
+      ]
+    },
+    {
+      "path": "assets/3064a1bebb31a88d01858484da05b5ad8e0849efa529d1db5c0e17e1a888f022.webp",
+      "sha256": "3064a1bebb31a88d01858484da05b5ad8e0849efa529d1db5c0e17e1a888f022",
+      "bytes": 1166148,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/3064a1bebb31a88d01858484da05b5ad8e0849efa529d1db5c0e17e1a888f022.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/3064a1bebb31a88d01858484da05b5ad8e0849efa529d1db5c0e17e1a888f022.webp"
+      ],
+      "poolIndices": [
+        83
+      ]
+    },
+    {
+      "path": "assets/8f39dd3b399bf2a0ea6d964ba5cbdb0a9561208dfc2c4fc32d271f1337c604dc.webp",
+      "sha256": "8f39dd3b399bf2a0ea6d964ba5cbdb0a9561208dfc2c4fc32d271f1337c604dc",
+      "bytes": 614014,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/8f39dd3b399bf2a0ea6d964ba5cbdb0a9561208dfc2c4fc32d271f1337c604dc.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/8f39dd3b399bf2a0ea6d964ba5cbdb0a9561208dfc2c4fc32d271f1337c604dc.webp"
+      ],
+      "poolIndices": [
+        84
+      ]
+    },
+    {
+      "path": "assets/10c68162f0a0b463e0819a75ada1b0a1d3424b24d816b0aa0e03206237aa61ae.webp",
+      "sha256": "10c68162f0a0b463e0819a75ada1b0a1d3424b24d816b0aa0e03206237aa61ae",
+      "bytes": 1169230,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/10c68162f0a0b463e0819a75ada1b0a1d3424b24d816b0aa0e03206237aa61ae.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/10c68162f0a0b463e0819a75ada1b0a1d3424b24d816b0aa0e03206237aa61ae.webp"
+      ],
+      "poolIndices": [
+        85
+      ]
+    },
+    {
+      "path": "assets/17c1c5d585d1b171d72f71abb18c29d2e9e1c3fe1e6a01ec9909bde3422b4dfc.webp",
+      "sha256": "17c1c5d585d1b171d72f71abb18c29d2e9e1c3fe1e6a01ec9909bde3422b4dfc",
+      "bytes": 523000,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/17c1c5d585d1b171d72f71abb18c29d2e9e1c3fe1e6a01ec9909bde3422b4dfc.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/17c1c5d585d1b171d72f71abb18c29d2e9e1c3fe1e6a01ec9909bde3422b4dfc.webp"
+      ],
+      "poolIndices": [
+        86
+      ]
+    },
+    {
+      "path": "assets/ffc954f3110d0237dd50c23a8f4266a67788f914b1c181e9885cccbba22599bd.webp",
+      "sha256": "ffc954f3110d0237dd50c23a8f4266a67788f914b1c181e9885cccbba22599bd",
+      "bytes": 1306000,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/ffc954f3110d0237dd50c23a8f4266a67788f914b1c181e9885cccbba22599bd.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/ffc954f3110d0237dd50c23a8f4266a67788f914b1c181e9885cccbba22599bd.webp"
+      ],
+      "poolIndices": [
+        87
+      ]
+    },
+    {
+      "path": "assets/60d2db42353b045a1392e7a70948f2de151d26528b9ac007bd3d06a8cec0a240.webp",
+      "sha256": "60d2db42353b045a1392e7a70948f2de151d26528b9ac007bd3d06a8cec0a240",
+      "bytes": 988520,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/60d2db42353b045a1392e7a70948f2de151d26528b9ac007bd3d06a8cec0a240.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/60d2db42353b045a1392e7a70948f2de151d26528b9ac007bd3d06a8cec0a240.webp"
+      ],
+      "poolIndices": [
+        88
+      ]
+    },
+    {
+      "path": "assets/5e19cf544172c4636e9b9a0dc9b68eef5095395c0d2cf2a6a4b8a46c8ed821de.webp",
+      "sha256": "5e19cf544172c4636e9b9a0dc9b68eef5095395c0d2cf2a6a4b8a46c8ed821de",
+      "bytes": 954120,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/5e19cf544172c4636e9b9a0dc9b68eef5095395c0d2cf2a6a4b8a46c8ed821de.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/5e19cf544172c4636e9b9a0dc9b68eef5095395c0d2cf2a6a4b8a46c8ed821de.webp"
+      ],
+      "poolIndices": [
+        89
+      ]
+    },
+    {
+      "path": "assets/88ede38cca33e0efba6099910414002f1442028c98f6f8c810863ed077e358df.webp",
+      "sha256": "88ede38cca33e0efba6099910414002f1442028c98f6f8c810863ed077e358df",
+      "bytes": 1037192,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/88ede38cca33e0efba6099910414002f1442028c98f6f8c810863ed077e358df.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/88ede38cca33e0efba6099910414002f1442028c98f6f8c810863ed077e358df.webp"
+      ],
+      "poolIndices": [
+        90
+      ]
+    },
+    {
+      "path": "assets/c61a0332340836fcac50d44b66c87342f3c96767155e1f6d8d3865f2d123cc2c.webp",
+      "sha256": "c61a0332340836fcac50d44b66c87342f3c96767155e1f6d8d3865f2d123cc2c",
+      "bytes": 937474,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/c61a0332340836fcac50d44b66c87342f3c96767155e1f6d8d3865f2d123cc2c.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/c61a0332340836fcac50d44b66c87342f3c96767155e1f6d8d3865f2d123cc2c.webp"
+      ],
+      "poolIndices": [
+        91
+      ]
+    },
+    {
+      "path": "assets/ce7aa4b0e20de9103f3c790f15e50fb999eecd460057f2d24524dbea91d74553.webp",
+      "sha256": "ce7aa4b0e20de9103f3c790f15e50fb999eecd460057f2d24524dbea91d74553",
+      "bytes": 1222368,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/ce7aa4b0e20de9103f3c790f15e50fb999eecd460057f2d24524dbea91d74553.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/ce7aa4b0e20de9103f3c790f15e50fb999eecd460057f2d24524dbea91d74553.webp"
+      ],
+      "poolIndices": [
+        92
+      ]
+    },
+    {
+      "path": "assets/352ed52f9dbd0929c9858c862cfaeb056f48e056a2822428edbd8f32885c234e.webp",
+      "sha256": "352ed52f9dbd0929c9858c862cfaeb056f48e056a2822428edbd8f32885c234e",
+      "bytes": 1043320,
+      "mimeType": "image/webp",
+      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/352ed52f9dbd0929c9858c862cfaeb056f48e056a2822428edbd8f32885c234e.webp",
+      "fallbackUrls": [
+        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/352ed52f9dbd0929c9858c862cfaeb056f48e056a2822428edbd8f32885c234e.webp"
+      ],
+      "poolIndices": [
+        93
+      ]
+    }
+  ]
+}

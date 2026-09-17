@@ -1,0 +1,22 @@
+{
+  "type": "script",
+  "enabled": true,
+  "name": "真王核心-花名册",
+  "id": "a59735c3-f936-44f0-9835-f792cb5e6285",
+  "content": "import 'https://kulsetiid.github.io/true-king-roster/index.js';",
+  "info": "真王核心-花名册 V0.3.11：修复手机点击小帮手后纸剧场窗口高度为零的问题，随可见视口同步窗口大小。新增轻量联网发布与图片备用源，完整版继续内嵌图片。保留七枚权柄纸卡、动态客厅点位与艾琳内容。\n轻量联网版：脚本与图片分开下载，图片按需加载并由浏览器缓存。首次查看仍需网络。请勿与完整版或旧脚本同时启用。",
+  "button": {
+    "enabled": true,
+    "buttons": []
+  },
+  "data": {
+    "version": "V0.3.11",
+    "buildId": "20260917-true-king-mobile-window-v0.3.11",
+    "catalogVersion": "sha256-86ab1531590c0de4183f6166",
+    "architecture": "package-composition-v1"
+  },
+  "export_with": {
+    "data": true,
+    "button": true
+  }
+}
