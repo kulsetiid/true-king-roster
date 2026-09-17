@@ -1,0 +1,22 @@
+{
+  "type": "script",
+  "enabled": true,
+  "name": "真王核心-花名册",
+  "id": "a59735c3-f936-44f0-9835-f792cb5e6285",
+  "content": "import 'https://kulsetiid.github.io/true-king-roster/index.js';",
+  "info": "真王核心-花名册 V0.3.13：客厅、花名册与愿望黑板统一使用真实加载进度页，并按内容分别显示装配、翻书和贴纸条的小帮手；花名册全部相关图片、黑板图片及当前愿望记录就绪后才开放页面，失败可按当前内容重试或返回。保留手机窗口修复、轻量联网图片备用源、七枚权柄纸卡、动态客厅点位与艾琳内容。\n轻量联网版：脚本与图片分开下载，图片按需加载并由浏览器缓存。首次查看仍需网络。请勿与完整版或旧脚本同时启用。",
+  "button": {
+    "enabled": true,
+    "buttons": []
+  },
+  "data": {
+    "version": "V0.3.13",
+    "buildId": "20260917-true-king-unified-loader-v0.3.13",
+    "catalogVersion": "sha256-86ab1531590c0de4183f6166",
+    "architecture": "package-composition-v1"
+  },
+  "export_with": {
+    "data": true,
+    "button": true
+  }
+}

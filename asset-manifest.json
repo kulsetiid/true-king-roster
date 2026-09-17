@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
-  "version": "V0.3.12",
-  "buildId": "20260917-true-king-scene-loader-v0.3.12",
+  "version": "V0.3.13",
+  "buildId": "20260917-true-king-unified-loader-v0.3.13",
   "site": "https://kulsetiid.github.io/true-king-roster/",
   "assetBaseUrl": "https://kulsetiid.github.io/true-king-roster/assets/",
   "cdnRepo": "kulsetiid/true-king-roster",
   "assetCdnRef": "assets-v0.3.11",
-  "sourceScriptSha256": "6559c5446af0769fd06ba31fdcd693453dd4006a5f5ef9f8ce149a584cc3448b",
-  "sourceScriptBytes": 124389234,
-  "scriptSha256": "34bd32367c320093b9995c0ba44241503986a9e0c77d580d1f6c411f7a2fabb7",
-  "scriptBytes": 1848686,
-  "imageCount": 93,
-  "imageReferenceCount": 94,
-  "assetBytes": 91931325,
-  "embeddedImageCount": 1,
-  "embeddedImageBytes": 729176,
+  "sourceScriptSha256": "3956467b36990313be876b16ae84341eed9dfdfaffe935335b44ffa654bc1154",
+  "sourceScriptBytes": 125571967,
+  "scriptSha256": "9aae6ac488752590cdb4b6bb291e4c7adec9c67f97853f046280c41d88239f26",
+  "scriptBytes": 3863986,
+  "imageCount": 92,
+  "imageReferenceCount": 95,
+  "assetBytes": 91306621,
+  "embeddedImageCount": 3,
+  "embeddedImageBytes": 2226428,
   "assets": [
     {
       "path": "assets/d624cd4a278698d657261ab5155cfdc4273c5119b73204ab7e2a8c3ea67a4760.png",
@@ -352,19 +352,6 @@
       ],
       "poolIndices": [
         25
-      ]
-    },
-    {
-      "path": "assets/8d2d6d3f8070d608ff277c2582d7f67c9fe3a877700870d0a766443f9b0a9c9b.webp",
-      "sha256": "8d2d6d3f8070d608ff277c2582d7f67c9fe3a877700870d0a766443f9b0a9c9b",
-      "bytes": 624704,
-      "mimeType": "image/webp",
-      "primaryUrl": "https://kulsetiid.github.io/true-king-roster/assets/8d2d6d3f8070d608ff277c2582d7f67c9fe3a877700870d0a766443f9b0a9c9b.webp",
-      "fallbackUrls": [
-        "https://cdn.jsdelivr.net/gh/kulsetiid/true-king-roster@assets-v0.3.11/assets/8d2d6d3f8070d608ff277c2582d7f67c9fe3a877700870d0a766443f9b0a9c9b.webp"
-      ],
-      "poolIndices": [
-        26
       ]
     },
     {
