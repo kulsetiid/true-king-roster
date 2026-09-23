@@ -1,0 +1,22 @@
+{
+  "type": "script",
+  "enabled": true,
+  "name": "真王核心-花名册",
+  "id": "a59735c3-f936-44f0-9835-f792cb5e6285",
+  "content": "import 'https://kulsetiid.github.io/true-king-roster/index.js';",
+  "info": "真王核心 V0.3.15：手机旋转舞台改用固定裁切区域内的镜头平移，图片重试绕过失败缓存，加载纸卡不拦截按钮。",
+  "button": {
+    "enabled": true,
+    "buttons": []
+  },
+  "data": {
+    "version": "V0.3.15",
+    "buildId": "20260923-true-king-mobile-camera-retry-v0.3.15",
+    "catalogVersion": "sha256-86ab1531590c0de4183f6166",
+    "architecture": "package-composition-v1"
+  },
+  "export_with": {
+    "data": true,
+    "button": true
+  }
+}
