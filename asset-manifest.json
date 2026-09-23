@@ -1,15 +1,13 @@
 {
   "schemaVersion": 1,
-  "version": "V0.3.13",
-  "buildId": "20260917-true-king-unified-loader-v0.3.13",
+  "version": "V0.3.14",
+  "buildId": "20260923-true-king-mobile-landscape-v0.3.14",
   "site": "https://kulsetiid.github.io/true-king-roster/",
   "assetBaseUrl": "https://kulsetiid.github.io/true-king-roster/assets/",
   "cdnRepo": "kulsetiid/true-king-roster",
   "assetCdnRef": "assets-v0.3.11",
-  "sourceScriptSha256": "3956467b36990313be876b16ae84341eed9dfdfaffe935335b44ffa654bc1154",
-  "sourceScriptBytes": 125571967,
-  "scriptSha256": "9aae6ac488752590cdb4b6bb291e4c7adec9c67f97853f046280c41d88239f26",
-  "scriptBytes": 3863986,
+  "scriptSha256": "8c265489553d0e6e71aaba56d5d816d193f8495cbebadea4827d68846b764936",
+  "scriptBytes": 3865012,
   "imageCount": 92,
   "imageReferenceCount": 95,
   "assetBytes": 91306621,
@@ -1212,5 +1210,11 @@
         93
       ]
     }
-  ]
+  ],
+  "baseRelease": {
+    "version": "V0.3.13",
+    "scriptSha256": "9aae6ac488752590cdb4b6bb291e4c7adec9c67f97853f046280c41d88239f26",
+    "sourceScriptSha256": "3956467b36990313be876b16ae84341eed9dfdfaffe935335b44ffa654bc1154",
+    "sourceScriptBytes": 125571967
+  }
 }
