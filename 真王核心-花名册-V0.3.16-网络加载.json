@@ -1,0 +1,22 @@
+{
+  "type": "script",
+  "enabled": true,
+  "name": "真王核心-花名册",
+  "id": "a59735c3-f936-44f0-9835-f792cb5e6285",
+  "content": "import 'https://kulsetiid.github.io/true-king-roster/index.js';",
+  "info": "真王核心-花名册 V0.3.16：新增番茄酱的秘密补给。点击艾琳选单中的“开启秘密补给”，或点击客厅壁炉进入。购买扣除当前聊天的 FP，并把封装盲盒放入原生背包；具体内容在剧情开盒时决定。修正取货、补货小帮手与番茄酱的遮挡。\n轻量联网版：脚本与图片分开下载，图片按需加载并由浏览器缓存。首次查看仍需网络。请勿与完整版或旧脚本同时启用。",
+  "button": {
+    "enabled": true,
+    "buttons": []
+  },
+  "data": {
+    "version": "V0.3.16",
+    "buildId": "20260923-true-king-secret-supply-v0.3.16",
+    "catalogVersion": "sha256-86ab1531590c0de4183f6166",
+    "architecture": "package-composition-v1"
+  },
+  "export_with": {
+    "data": true,
+    "button": true
+  }
+}
