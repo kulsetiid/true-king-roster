@@ -1,0 +1,22 @@
+{
+  "type": "script",
+  "enabled": true,
+  "name": "真王核心-纸剧场",
+  "id": "a59735c3-f936-44f0-9835-f792cb5e6285",
+  "content": "import 'https://kulsetiid.github.io/true-king-roster/index.js';",
+  "info": "真王核心-纸剧场 V0.3.23：API连接新增自动、HTTP和HTTPS协议选择；退出塔罗面板后继续后台解读，重新进入恢复进度和结果；银白色小帮手举牌通知完成，可点击查看对应手记。通知接口可供后续功能复用。沿用已定稿人物、权柄、关系与本地密钥设置。\n网络加载版：刷新酒馆获取更新，勿与旧版同时启用。",
+  "button": {
+    "enabled": true,
+    "buttons": []
+  },
+  "data": {
+    "version": "V0.3.23",
+    "buildId": "20260928-true-king-tarot-background-notices-v0.3.23",
+    "catalogVersion": "sha256-ae893ac875b65e7d8d9ec5c3",
+    "architecture": "package-composition-v1"
+  },
+  "export_with": {
+    "data": true,
+    "button": true
+  }
+}
