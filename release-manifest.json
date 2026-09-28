@@ -1,0 +1,17 @@
+{
+  "name": "真王核心-纸剧场",
+  "version": "V0.3.22",
+  "buildId": "20260928-true-king-christina-table-api-v0.3.22",
+  "scriptId": "a59735c3-f936-44f0-9835-f792cb5e6285",
+  "site": "https://kulsetiid.github.io/true-king-roster/",
+  "loaderName": "真王核心-纸剧场-V0.3.22-网络加载.json",
+  "importName": "真王核心-纸剧场-V0.3.22-轻量联网版.json",
+  "assetTag": "assets-v0.3.22",
+  "sourceScriptSha256": "41de909f3489fecd8cc78db84a35c39b3237c3e74b461a98c3a8085e2c78832f",
+  "scriptSha256": "d14eb8550c27a2c002e02bc7f127b6c868204b0ee7de0823ee97cf6bafeb1d52",
+  "scriptBytes": 4313484,
+  "imageCount": 167,
+  "assetBytes": 116108167,
+  "christinaRegexSha256": "a899e8710323dedb69d88a51480566c6ffd6260a5cd0260b24c162fb01ce61cd",
+  "testsRun": false
+}

@@ -1,0 +1,22 @@
+{
+  "type": "script",
+  "enabled": true,
+  "name": "真王核心-纸剧场",
+  "id": "a59735c3-f936-44f0-9835-f792cb5e6285",
+  "content": "import 'https://kulsetiid.github.io/true-king-roster/index.js';",
+  "info": "真王核心-纸剧场 V0.3.22：克里斯蒂娜正式加入纸剧场，包含人物档案、四项权柄、双向关系、塔罗占卜与统一API设置。API密钥可按设置保存在当前浏览器。对白正则另行导入，已包含奶白纸卡与85%不透明度灰底。\n网络加载版：刷新酒馆获取更新，勿与旧版同时启用。",
+  "button": {
+    "enabled": true,
+    "buttons": []
+  },
+  "data": {
+    "version": "V0.3.22",
+    "buildId": "20260928-true-king-christina-table-api-v0.3.22",
+    "catalogVersion": "sha256-8a6b22d19a81909beae54ee3",
+    "architecture": "package-composition-v1"
+  },
+  "export_with": {
+    "data": true,
+    "button": true
+  }
+}
