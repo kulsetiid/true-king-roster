@@ -1,0 +1,22 @@
+{
+  "type": "script",
+  "enabled": true,
+  "name": "真王核心-纸剧场",
+  "id": "a59735c3-f936-44f0-9835-f792cb5e6285",
+  "content": "import 'https://kulsetiid.github.io/true-king-roster/index.js';",
+  "info": "V0.3.39：修复新消息尚未写入时误读上一轮输入导致的规则漏发；本次输入或当前聊天正文出现“虚空武装”，必定带入提取条件与回复末尾入口格式。\n轻量联网版：脚本与图片分开下载，图片按需加载并由浏览器缓存。首次查看仍需网络。请勿与完整版或旧脚本同时启用。",
+  "button": {
+    "enabled": true,
+    "buttons": []
+  },
+  "data": {
+    "version": "V0.3.39",
+    "buildId": "20261004-true-king-void-prompt-trigger-v0.3.39",
+    "catalogVersion": "sha256-a5996b4c8043cb5f00929827",
+    "architecture": "package-composition-v1"
+  },
+  "export_with": {
+    "data": true,
+    "button": true
+  }
+}
