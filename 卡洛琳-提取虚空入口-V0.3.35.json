@@ -1,0 +1,17 @@
+{
+  "id": "d4f1a8c3-064c-4ec9-b30d-4380604925d3",
+  "scriptName": "真王核心 · 卡洛琳 · 提取虚空入口 V0.3.35",
+  "findRegex": "/<void_request\\s+source=\"([^<>\"&\\x00-\\x1f]{1,80})\"\\s+mode=\"(generate|calibrate)\"\\s*>\\s*<\\/void_request>/g",
+  "replaceString": "<div class=\"tk-void-entry\"><button type=\"button\" data-tk-void-open=\"true\" data-source=\"$1\" data-mode=\"$2\"><span class=\"tk-void-light\" aria-hidden=\"true\"></span><span class=\"tk-void-label tk-void-generate\">提取虚空</span><span class=\"tk-void-label tk-void-calibrate\">校准虚空</span><span class=\"tk-void-source\">$1</span></button><span role=\"status\" aria-live=\"polite\"></span></div><style>.tk-void-entry{display:block;position:relative;max-width:620px;margin:20px auto;padding:10px 20px;text-align:center;isolation:isolate;box-sizing:border-box}\n.tk-void-entry button[data-tk-void-open]{all:unset;position:relative;display:flex;box-sizing:border-box;width:100%;min-height:112px;align-items:center;justify-content:center;flex-direction:column;gap:11px;cursor:pointer;color:#eaf6ff;font:500 23px/1.4 \"Noto Serif SC\",\"Source Han Serif SC\",\"Songti SC\",serif;letter-spacing:.22em;text-align:center;text-shadow:0 1px 3px #082c66,0 0 12px #448bdb;transition:transform .28s ease,filter .28s ease;touch-action:manipulation;-webkit-tap-highlight-color:transparent}\n.tk-void-entry .tk-void-light{display:block;position:relative;width:90%;height:2px;flex-shrink:0;background:linear-gradient(90deg,transparent,#b9e6ff 20%,#fff 50%,#b9e6ff 80%,transparent);box-shadow:0 0 9px #b5eaff,0 0 27px #629ee5;transition:transform .28s ease,box-shadow .28s ease}\n.tk-void-entry .tk-void-light::after{content:\"\";position:absolute;inset:-12px 12%;background:radial-gradient(ellipse,#b8dfff66,transparent 65%);pointer-events:none}\n.tk-void-entry .tk-void-label{display:block;padding-left:.22em}\n.tk-void-entry button[data-tk-void-open]{user-select:none;-webkit-user-select:none}\n.tk-void-entry [data-mode=\"generate\"] .tk-void-calibrate,.tk-void-entry [data-mode=\"calibrate\"] .tk-void-generate{display:none}\n.tk-void-entry .tk-void-source{display:block;font:400 18px/1.5 \"Noto Serif SC\",\"Songti SC\",serif;letter-spacing:.08em;color:#bddcff;text-shadow:0 1px 2px #09245b}\n.tk-void-entry button[data-tk-void-open]:hover{transform:translateY(-3px);filter:brightness(1.13);background:transparent;border:none;box-shadow:none;color:#fff}\n.tk-void-entry button[data-tk-void-open]:hover .tk-void-light{transform:scaleX(1.035);box-shadow:0 0 12px #fff,0 0 30px #9dd5ff}\n.tk-void-entry button[data-tk-void-open]:focus-visible{outline:none}\n.tk-void-entry button[data-tk-void-open]:focus-visible .tk-void-label{text-decoration:underline;text-underline-offset:7px}\n.tk-void-entry button[data-tk-void-open]:active{transform:translateY(-1px)}\n.tk-void-entry button[data-tk-void-open]:disabled{cursor:wait;opacity:.65}\n.tk-void-entry [role=\"status\"]{display:block;min-height:1.4em;margin-top:4px;color:#b8d8f5;font:14px/1.5 sans-serif;letter-spacing:normal;overflow-wrap:anywhere}\n@media(prefers-reduced-motion:reduce){.tk-void-entry button[data-tk-void-open],.tk-void-entry .tk-void-light{transition:none}}\n</style>",
+  "trimStrings": [],
+  "placement": [
+    2
+  ],
+  "disabled": false,
+  "markdownOnly": true,
+  "promptOnly": false,
+  "runOnEdit": true,
+  "substituteRegex": 0,
+  "minDepth": null,
+  "maxDepth": null
+}

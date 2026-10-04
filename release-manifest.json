@@ -1,23 +1,24 @@
 {
   "name": "真王核心-纸剧场",
-  "version": "V0.3.23",
-  "buildId": "20260928-true-king-tarot-background-notices-v0.3.23",
+  "version": "V0.3.38",
+  "buildId": "20261004-true-king-void-imgbb-v0.3.38",
   "scriptId": "a59735c3-f936-44f0-9835-f792cb5e6285",
   "site": "https://kulsetiid.github.io/true-king-roster/",
-  "loaderName": "真王核心-纸剧场-V0.3.23-网络加载.json",
-  "importName": "真王核心-纸剧场-V0.3.23-轻量联网版.json",
-  "assetTag": "assets-v0.3.23",
-  "sourceScriptSha256": "e700143933e18fd838ba7b777c48ac4cb8823329afd68d662d7a26b8dd2c3709",
-  "scriptSha256": "8cac2c169d5aca3d3a1c9c9b368eb4cfc626f0007adb98d92d760f107325a18a",
-  "scriptBytes": 4345676,
-  "imageCount": 168,
-  "assetBytes": 116283931,
-  "christinaRegexSha256": "a899e8710323dedb69d88a51480566c6ffd6260a5cd0260b24c162fb01ce61cd",
-  "testsRun": false,
-  "sourceVerification": {
-    "targetedTestsPassed": 71,
-    "offlineBrowserFlow": true,
-    "liveLanApi": false,
-    "liveTavern": false
-  }
+  "loaderName": "真王核心-纸剧场-V0.3.38-网络加载.json",
+  "importName": "真王核心-纸剧场-V0.3.38-轻量联网版.json",
+  "assetTag": "assets-v0.3.38",
+  "sourceScriptSha256": "8ac8ba7cadcc120f03b36766269cd7a90748a79a6946884ac0fa41b726841977",
+  "scriptSha256": "b2fe612fca5ce5a714db18616e3c93bd8ec0bf29dc7283c6e75dd76fe3d70e24",
+  "scriptBytes": 7108083,
+  "imageCount": 232,
+  "assetBytes": 154147422,
+  "embeddedAudioCount": 1,
+  "embeddedAudioBytes": 1719797,
+  "crystalImages": {
+    "host": "imgbb",
+    "count": 63,
+    "expiration": "none"
+  },
+  "entryRegex": "卡洛琳-提取虚空入口-V0.3.35.json",
+  "displayRegex": "卡洛琳-虚空武装晶体卡面-V0.3.38-imgBB.json"
 }

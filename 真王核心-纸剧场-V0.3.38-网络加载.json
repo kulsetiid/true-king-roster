@@ -1,0 +1,22 @@
+{
+  "type": "script",
+  "enabled": true,
+  "name": "真王核心-纸剧场",
+  "id": "a59735c3-f936-44f0-9835-f792cb5e6285",
+  "content": "import 'https://kulsetiid.github.io/true-king-roster/index.js';",
+  "info": "V0.3.38：虚空武装七原典的63张晶体素材改为imgBB原图直链，正文成品卡、收藏和详情页统一引用；保留V0.3.37全部生成及存档逻辑。\n轻量联网版：脚本与图片分开下载，图片按需加载并由浏览器缓存。首次查看仍需网络。请勿与完整版或旧脚本同时启用。",
+  "button": {
+    "enabled": true,
+    "buttons": []
+  },
+  "data": {
+    "version": "V0.3.38",
+    "buildId": "20261004-true-king-void-imgbb-v0.3.38",
+    "catalogVersion": "sha256-88e13e1a7d1d5f91f76bcca9",
+    "architecture": "package-composition-v1"
+  },
+  "export_with": {
+    "data": true,
+    "button": true
+  }
+}
