@@ -1,0 +1,22 @@
+{
+  "type": "script",
+  "enabled": true,
+  "name": "真王核心-纸剧场",
+  "id": "a59735c3-f936-44f0-9835-f792cb5e6285",
+  "content": "import 'https://kulsetiid.github.io/true-king-roster/index.js';",
+  "info": "V0.3.42：秘密补给账本修复与糖块点击 +1 FP；保留 V0.3.41 完整功能、灵之器实时灵魂值和虚空武装专属解放规则。\n轻量联网版：脚本与图片分开下载，图片按需加载并由浏览器缓存。首次查看仍需网络。请勿与完整版或旧脚本同时启用。",
+  "button": {
+    "enabled": true,
+    "buttons": []
+  },
+  "data": {
+    "version": "V0.3.42",
+    "buildId": "20261006-true-king-secret-supply-candy-v0.3.42",
+    "catalogVersion": "sha256-03da77d08f29fc996bddd02e",
+    "architecture": "package-composition-v1"
+  },
+  "export_with": {
+    "data": true,
+    "button": true
+  }
+}
