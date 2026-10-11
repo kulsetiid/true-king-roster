@@ -1,0 +1,23 @@
+{
+  "buildId": "20261011-paper-home-network-v2",
+  "version": "V0.3.43",
+  "site": "https://kulsetiid.github.io/true-king-roster/paper-home-v3/20261011-paper-home-network-v2/",
+  "relativeSite": "paper-home-v3/20261011-paper-home-network-v2/",
+  "importPath": "真王核心-纸剧场-V0.3.43-家园联网轻量版.json",
+  "loaderPath": "真王核心-纸剧场-V0.3.43-家园网络入口.json",
+  "scriptPath": "index.js",
+  "scriptBytes": 9298186,
+  "sourceScriptBytes": 417637720,
+  "totalImageCount": 312,
+  "networkImageCount": 306,
+  "embeddedImageCount": 6,
+  "assetBytes": 306326505,
+  "assetBaseUrl": "https://kulsetiid.github.io/true-king-roster/paper-home-v3/20261011-paper-home-network-v1/assets/",
+  "publishAssets": false,
+  "source": "current-v3-source",
+  "networkPublished": false,
+  "standardParity": {
+    "moduleCount": 43,
+    "dataFieldCount": 8
+  }
+}

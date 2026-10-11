@@ -1,0 +1,267 @@
+{
+  "baselineVersion": "V0.3.42",
+  "scope": "保留标准业务数据、样式和图片原字节；仅更新家园及资源加载",
+  "modules": [
+    {
+      "source": "core/errors.js",
+      "sha256": "84e40c93022fc755f6be5e1d1f721a8446bbb6b81e37457a3c3c2bcb4c6aaa6e",
+      "preserved": true
+    },
+    {
+      "source": "core/stable.js",
+      "sha256": "18eb55781e09d7f5fa51ec80afdb42c729aded1be2b32ca558ff4db5584a73f5",
+      "preserved": true
+    },
+    {
+      "source": "core/condition-evaluator.js",
+      "sha256": "572cd99ee9b7db8717f6e2c5190cb550312aba7e9ee67f3ac2a78f76ffdd7025",
+      "preserved": true
+    },
+    {
+      "source": "core/yelena-dream-context.js",
+      "sha256": "c759349fa7c07514331373190b718d7f81fd563b21919de9b63c8ad587130f0e",
+      "preserved": true
+    },
+    {
+      "source": "core/erin-hunt-context.js",
+      "sha256": "6a82bee7c91ff167415f120437ceb30832e0f365ec139a8b77279c53e37ff19b",
+      "preserved": true
+    },
+    {
+      "source": "core/carolyn-soul-vessel.js",
+      "sha256": "b67f4ddd2f3e2f326760653eb5b5f9db787f4b45103494312206bcbf3b6bb6eb",
+      "preserved": true
+    },
+    {
+      "source": "core/package-catalog.js",
+      "sha256": "34a56ad182dc3d8d33215f96779b695d229e174cca3ecc5a7edeae80db30b070",
+      "preserved": true
+    },
+    {
+      "source": "core/prompt-worldbook-renderer.js",
+      "sha256": "8eb1b170a414db271e69220c408b1f11270d973b743fef5c785aeaf9e7c7d1ee",
+      "preserved": true
+    },
+    {
+      "source": "core/target-renderers.js",
+      "sha256": "ff0d54341a37986478b57418dbff5fb66cd4a9b1aaf767c2a58eec1a0eae19fc",
+      "preserved": true
+    },
+    {
+      "source": "core/composition-engine.js",
+      "sha256": "682a43a47c6aa853017b887dfe4d5a5df4d0a9c6b538017f056d5573c15f57d5",
+      "preserved": true
+    },
+    {
+      "source": "core/music-preference.js",
+      "sha256": "92e47b59a7843b328672d1804b70f8586e383bd979305b6023cf60351001c002",
+      "preserved": true
+    },
+    {
+      "source": "adapters/ui/roster-facade.js",
+      "sha256": "82a4779e65325bed9d7dd2b23932e5208fde9bfb7464f8df00bb7b2e19f5b385",
+      "preserved": true
+    },
+    {
+      "source": "adapters/ui/embedded-assets.js",
+      "sha256": "43a868b9218c224f59ef52ee84eb777fee49d8d117c4f3f4795f4ca7a251eec6",
+      "preserved": true
+    },
+    {
+      "source": "adapters/ui/host-document.js",
+      "sha256": "a32a881fffac5aa052ec8a80410d7032b4aa580885133480bed83efcb79cb625",
+      "preserved": true
+    },
+    {
+      "source": "adapters/ui/network-images.js",
+      "sha256": "97588d46eb820acd917e02d32d53deaa5dd78ee38a296e79c8c6c43678c84ce4",
+      "preserved": true
+    },
+    {
+      "source": "adapters/ui/custom-element-compat.js",
+      "sha256": "f17e6101e274ba39e6fbf828091c208bab2aed2bea26bbaed629ad1c8dde5f29",
+      "preserved": true
+    },
+    {
+      "source": "adapters/sillytavern/state-adapter.js",
+      "sha256": "cb62cf2f6c8d39163a4b4c51d4ef143edc045a2d588e64a313ec313216f185ab",
+      "preserved": true
+    },
+    {
+      "source": "runtime/runtime-coordinator.js",
+      "sha256": "be7806276b8f4f21241e918bf5603b624586678c2fb8e27a1aca8ecfe70915f2",
+      "preserved": true
+    },
+    {
+      "source": "ui/roster-page-model.js",
+      "sha256": "e7dc1323cbfe1ac688b4e16556a2f3baced0f6507bd343de909f2c019492d97b",
+      "preserved": true
+    },
+    {
+      "source": "ui/helper-notifications.js",
+      "sha256": "10e21fc1907e2c1aba5f742b0fbd1af759d45e44ac078fa130c8a9b59c8c8906",
+      "preserved": true
+    },
+    {
+      "source": "ui/roster-view.js",
+      "sha256": "dd6120def7bdb92ca1df7b375452abf49c82807f39817491f22d09c1e1465977",
+      "preserved": true
+    },
+    {
+      "source": "ui/paper-window.js",
+      "sha256": "8998dcb47c74678ff7333cd6d5c61b5e6b2a654f4551cebb403961e55060a60c",
+      "preserved": true
+    },
+    {
+      "source": "standalone/warehouse/paper-landscape.js",
+      "sha256": "97eac88f2de0800fd2a52657291c966b3c9a4d4a450d92bbacfe830e79c47323",
+      "preserved": true
+    },
+    {
+      "source": "ui/paper-image-status.js",
+      "sha256": "82ea0b850221e198ee3a3f8c70510b672fdaad073c6bc874d8327f0f2dec8497",
+      "preserved": true
+    },
+    {
+      "source": "ui/paper-room-model.js",
+      "sha256": "16756d55b1f0d333442410eef039da9d312079c62de889c4338aa29bab433f7a",
+      "preserved": true
+    },
+    {
+      "source": "ui/paper-helper-motion.js",
+      "sha256": "a2d78484aca7536e9d8da14631a38db424173a3d66463393310dcc98e8c0d191",
+      "preserved": true
+    },
+    {
+      "source": "ui/paper-room-view.js",
+      "sha256": "fbaaed0cdb990e6eb4043416f731d0c23739d4656bcf1177d7ab78b7c60d95cb",
+      "preserved": true
+    },
+    {
+      "source": "ui/paper-book-model.js",
+      "sha256": "b86257c2abdfdb9c090f5e299186cb5fd326c46cf03aa5311fda242b2fa873dd",
+      "preserved": true
+    },
+    {
+      "source": "ui/paper-book-view.js",
+      "sha256": "2459cc916c2d4fdd1b3bdf0c4061580cae36b6efbbea6153df6a32194d4d467a",
+      "preserved": true
+    },
+    {
+      "source": "ui/paper-wish-model.js",
+      "sha256": "da81a7ada395c2d200a15e7270b39ea26090abe6721defdccdd5e50ee458bcbb",
+      "preserved": true
+    },
+    {
+      "source": "ui/paper-wish-view.js",
+      "sha256": "ac8f7f97c1090162729de7358339f51614d4a05516cdbe92a5bad2d2a2fd45cb",
+      "preserved": true
+    },
+    {
+      "source": "ui/paper-secret-supply.js",
+      "sha256": "480407d3dfa1cd82c4c30ddaa0189c61689bd3c90766e95eefd088b859f4525e",
+      "preserved": true
+    },
+    {
+      "source": "ui/paper-tarot.js",
+      "sha256": "c63e791709f2ba0244d1df64c3e0d38bb1f4566537f0d9ed2eece89ac9f1a834",
+      "preserved": true
+    },
+    {
+      "source": "ui/paper-warehouse.js",
+      "sha256": "539ae94bdcc315e4656cf024e83574fbc154ab18e1c25d535f87ab54515124c6",
+      "preserved": true
+    },
+    {
+      "source": "adapters/jiyue-wishes/integration.js",
+      "sha256": "2ae70faca704a9271bbbbd06ebcb2dfee906c56373fb009ee7ffdb4b7f93120e",
+      "preserved": true
+    },
+    {
+      "source": "adapters/jiyue-wishes/wish-core.js",
+      "sha256": "6a31f6c9c81aa3484456cab2b9d52a3ced3b4496e2a9ed0d508d12d38359caef",
+      "preserved": true
+    },
+    {
+      "source": "adapters/jiyue-wishes/host-adapter.js",
+      "sha256": "5bb6ac7bf2c44c631e36ba3ef06ed0735569b4bedf5139016ad1f37eaf9dfdb7",
+      "preserved": true
+    },
+    {
+      "source": "秘密补给完整模块",
+      "sha256": "8d235c85f99e079d470931b06a07904da3d9ba3aa30da291a6c2ae3629766ade",
+      "preserved": true
+    },
+    {
+      "source": "塔罗完整模块",
+      "sha256": "cb2279f7b8a58dcb343daef3f5b6735bc547122c364f1e267f359be474e929a7",
+      "preserved": true
+    },
+    {
+      "source": "仓库完整模块",
+      "sha256": "63ebd0931d1971f60976ff7f701ebcd43733f8385a3cf34cebd6eaf76db6e053",
+      "preserved": true
+    },
+    {
+      "source": "虚空武装完整模块",
+      "sha256": "4d9ec6438178882b44ad0e826aae95b9fa4b19acb8ea2e8843148ef6dd58ad63",
+      "preserved": true
+    },
+    {
+      "source": "API 设置完整模块",
+      "sha256": "19d943c0ea9af34dfcb9d772b0040a7b21092bfefcae3391f280c9da676ae1e7",
+      "preserved": true
+    },
+    {
+      "source": "ui/paper-roster-host.js（仅扣除客厅工厂选择和新增参数）",
+      "sha256": "dfc1ead3865f258ebb598338af2dff457802a58f43a5f50c547bfe7efc2c706a",
+      "preserved": false,
+      "modifiedForLoading": true,
+      "beforeSha256": "cb9eeb70a777bcd770249ac11ffad11134a467d4a50b9c138518769833ca4f6c",
+      "afterSha256": "83e60786d1c4e024f3096e9b633b817acb898a8b3b1ba015422be78562b25e3d",
+      "reason": "本轮角色行为与旧功能面板按需加载、精确唯一图片计数、失败重试、隐藏页面禁止预取；其余标准模块不得变化。"
+    }
+  ],
+  "data": [
+    {
+      "field": "catalogBundle",
+      "sha256": "a900a89192772fbccbf83ad3d24830baee8708e2dcb09daf65ffaedc3da9d8af",
+      "preserved": true
+    },
+    {
+      "field": "assets",
+      "sha256": "c00e9166c0e862497a435eaa0c9423dd6b4bd9a87987f770ad98f3f395e9d337",
+      "preserved": true
+    },
+    {
+      "field": "paperAssets",
+      "sha256": "2dbce2f0507e11efcbdd118fc4b18a4eb0579423d67efeab5d48f6ed94002c80",
+      "preserved": true
+    },
+    {
+      "field": "secretSupply",
+      "sha256": "96e45387fa6a827ea9b2fcb94c4d1b35c43ec7ada1e41db9a44d5b8164661cbc",
+      "preserved": true
+    },
+    {
+      "field": "tarot",
+      "sha256": "51da316d0c1b268bdf10f75a245d881b60d145af2f25b9b24b9f7ef4beb7d188",
+      "preserved": true
+    },
+    {
+      "field": "warehouse",
+      "sha256": "54b18c7a4e3b3a1171fb4a7db66aaca5bf969f3694687f235012b5b1af613d7a",
+      "preserved": true
+    },
+    {
+      "field": "carolyn",
+      "sha256": "cfd0038ca02afdfe4a4ba0d329cd996e195118198b33bc76ba9be18dfd5021e8",
+      "preserved": true
+    },
+    {
+      "field": "UI_STYLE",
+      "sha256": "3beb23809bacc0371f57a3ffd633c28ea2a0235dce00b2b0351c2cde039179ca",
+      "preserved": true
+    }
+  ]
+}

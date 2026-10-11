@@ -1,0 +1,22 @@
+{
+  "type": "script",
+  "enabled": true,
+  "name": "真王核心-纸剧场",
+  "id": "a59735c3-f936-44f0-9835-f792cb5e6285",
+  "content": "import 'https://kulsetiid.github.io/true-king-roster/paper-home-v3/20261011-paper-home-network-v2/index.js';",
+  "info": "真王核心纸剧场家园联网版：原图片按 SHA-256 独立发布；小帮手入口及加载纸卡原字节内嵌。角色按本次选中的动作组三帧加载，保留已加载资源复用。花名册、愿望、补给、仓库、塔罗、虚空武装、API 设置与原聊天存档保留。\n轻量联网版：脚本与图片分开下载，图片按需加载并由浏览器缓存。首次查看仍需网络。请勿与完整版或旧脚本同时启用。",
+  "button": {
+    "enabled": true,
+    "buttons": []
+  },
+  "data": {
+    "version": "V0.3.43",
+    "buildId": "20261011-paper-home-network-v2",
+    "catalogVersion": "sha256-03da77d08f29fc996bddd02e",
+    "architecture": "package-composition-v1"
+  },
+  "export_with": {
+    "data": true,
+    "button": true
+  }
+}
