@@ -1,3 +1,5 @@
 
 # Versioned release files keep the bytes recorded in network-manifest.json.
 paper-home-v3/20261116-rc13-network/** -text
+
+paper-home-v3/20261116-rc13-imgbb-network/** -text
