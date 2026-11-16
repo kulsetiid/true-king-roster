@@ -1,15 +1,15 @@
 {
   "name": "真王核心 V3",
   "version": "V0.3.44-RC13",
-  "buildId": "20261116-rc13-imgbb-network",
+  "buildId": "20261116-rc13-scopefix-network",
   "scriptId": "a59735c3-f936-44f0-9835-f792cb5e6285",
   "site": "https://kulsetiid.github.io/true-king-roster/",
-  "loaderName": "paper-home-v3/20261116-rc13-imgbb-network/真王核心-RC13-网络版.json",
-  "localPackage": "https://github.com/kulsetiid/true-king-roster/releases/download/v3-rc13-imgbb-20261116/TrueKing-V3-RC13-ImgBB-Windows-x64.zip",
-  "release": "https://github.com/kulsetiid/true-king-roster/releases/tag/v3-rc13-imgbb-20261116",
-  "previousPublishedCommit": "806d9e5",
+  "loaderName": "paper-home-v3/20261116-rc13-scopefix-network/真王核心-RC13-网络版.json",
+  "localPackage": "https://github.com/kulsetiid/true-king-roster/releases/download/v3-rc13-scopefix-20261116/TrueKing-V3-RC13-ScopeFix-Windows-x64.zip",
+  "release": "https://github.com/kulsetiid/true-king-roster/releases/tag/v3-rc13-scopefix-20261116",
+  "previousPublishedCommit": "70cd84f04cafa0f7a161e91682fceec17c732422",
   "mediaCommit": "4ad51ce7611b40fc54337a4a966a8f85b0ac90ca",
-  "revision": "livia-dialogue-imgbb",
+  "revision": "worldbook-local-scope",
   "dialogueImagePolicy": {
     "livia": "ImgBB HTTPS",
     "images": 17

@@ -1,10 +1,12 @@
 # 真王核心 V3
 
-**当前版本：V0.3.44 · RC13 ImgBB 修正版 · 2026-11-16**
+**当前版本：V0.3.44 · RC13 世界书兼容修正版 · 2026-11-16**
 
-[打开下载页面](https://kulsetiid.github.io/true-king-roster/) · [网络版导入文件](paper-home-v3/20261116-rc13-imgbb-network/真王核心-RC13-网络版.json) · [Windows 本地一键包](https://github.com/kulsetiid/true-king-roster/releases/download/v3-rc13-imgbb-20261116/TrueKing-V3-RC13-ImgBB-Windows-x64.zip) · [版本发布与校验](https://github.com/kulsetiid/true-king-roster/releases/tag/v3-rc13-imgbb-20261116)
+[打开下载页面](https://kulsetiid.github.io/true-king-roster/) · [网络版导入文件](paper-home-v3/20261116-rc13-scopefix-network/真王核心-RC13-网络版.json) · [Windows 本地一键包](https://github.com/kulsetiid/true-king-roster/releases/download/v3-rc13-scopefix-20261116/TrueKing-V3-RC13-ScopeFix-Windows-x64.zip) · [版本发布与校验](https://github.com/kulsetiid/true-king-roster/releases/tag/v3-rc13-scopefix-20261116)
 
 ## 本次修正
+
+固定世界书完整条目使用局部作用域，避免与重复条目或其他条目的同名变量发生冲突。正文输出、角色能力与存档格式不变。已验证单条输出一致、组合渲染及组件原位更新。
 
 利维娅对白正则的 17 张表情图统一使用已上传的 ImgBB HTTPS 链接。网络版与本地一键包均已同步；本地版的利维娅对白图片也需要联网。其他纸卡与功能沿用原来的加载方式。
 
@@ -45,7 +47,7 @@ import 'https://kulsetiid.github.io/true-king-roster/index.js';
 
 ## 本地一键包：Windows 10/11 x64
 
-1. 从 [GitHub Release 下载完整 ZIP](https://github.com/kulsetiid/true-king-roster/releases/download/v3-rc13-imgbb-20261116/TrueKing-V3-RC13-ImgBB-Windows-x64.zip)，**先完整解压**到一个独立文件夹。
+1. 从 [GitHub Release 下载完整 ZIP](https://github.com/kulsetiid/true-king-roster/releases/download/v3-rc13-scopefix-20261116/TrueKing-V3-RC13-ScopeFix-Windows-x64.zip)，**先完整解压**到一个独立文件夹。
 2. 双击 `真王核心.exe`，选择已有的 SillyTavern 文件夹（其中应有 `server.js`）。
 3. 选择自己的账号，点击“安装 / 更新完整组件”。更新前先等正文生成结束；由其他入口启动的酒馆请先正常退出。
 4. 酒馆启动后，进入目标角色卡，点击“安装到当前角色卡”。等世界书、美化逐项显示成功，再点“完成”。
@@ -66,4 +68,4 @@ import 'https://kulsetiid.github.io/true-king-roster/index.js';
 
 ## 历史版本
 
-旧版发布文件与纸卡地址继续保留。V3 的网络目录为 `paper-home-v3/20261116-rc13-imgbb-network/`；素材清单记录每个文件的 SHA-256 和固定地址。
+旧版发布文件与纸卡地址继续保留。V3 的网络目录为 `paper-home-v3/20261116-rc13-scopefix-network/`；素材清单记录每个文件的 SHA-256 和固定地址。
