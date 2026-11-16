@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#344237">
+  <title>真王核心 · 孤儿院</title>
+  <link rel="stylesheet" href="pilot.css">
+  <script type="module" src="pilot.js"></script>
+</head>
+<body>
+  <header class="pilot-bar">
+    <strong>真王核心 · 孤儿院</strong>
+    <span id="connection" role="status">独立预览 · 未连接酒馆</span>
+    <nav aria-label="页面操作">
+      <button id="reconnect" hidden>重新连接</button>
+      <button id="report">设置与帮助</button>
+      <button id="back">返回聊天</button>
+    </nav>
+  </header>
+  <main id="room" aria-label="孤儿院纸剧场"></main>
+  <section id="loading" class="paper-loading" aria-busy="true" aria-label="准备房间">
+    <div class="paper-loading-scene">
+      <div class="paper-loading-projection">
+        <p class="paper-loading-kicker">小帮手正在装配纸剧场</p>
+        <strong id="percent" class="paper-loading-value">准备中</strong>
+        <div class="paper-loading-progress" role="progressbar" aria-label="当前场景加载进度" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><i id="fill" class="paper-loading-fill"></i></div>
+        <p id="stage" class="paper-loading-copy">正在打开客厅清单……</p>
+        <p id="cards" class="paper-loading-count">加载纸卡：正在清点</p>
+        <p id="placement" class="paper-loading-count">摆放纸卡：等待加载</p>
+        <p id="cache" class="paper-loading-cache"></p>
+        <div class="paper-loading-actions"><button id="retry" hidden>重新装配</button><button id="recover-cache" hidden>重新读取图片</button><button id="cancel">取消准备</button></div>
+      </div>
+      <div class="paper-loading-helper-wrap"><img class="paper-loading-helper" src="https://raw.githubusercontent.com/kulsetiid/true-king-home-v3/4ad51ce7611b40fc54337a4a966a8f85b0ac90ca/assets/b0a8491f7453ab2024fdea9b0107aa80e6fddaf83c91d84d906ce570d8a851fd.webp" alt="正在装配场景的小帮手" draggable="false"></div>
+    </div>
+  </section>
+  <section id="closed" class="closed" hidden><h1>纸剧场已收起</h1><p>已准备的纸卡仍留在本次页面中。</p><button id="resume">回到原房间</button></section>
+  <dialog id="details" aria-labelledby="settings-title">
+    <h2 id="settings-title">设置与帮助</h2>
+    <p id="connection-help">从酒馆的真王核心入口进入后，生活功能会连接当前聊天。独立打开网页可预览房间。</p>
+    <p>左侧切换房间；右侧“生活 / 装修”切换日常与布置。房间中的物件可以打开花名册、愿望、仓库、塔罗和秘密补给。</p>
+    <details><summary>图片与加载信息</summary><p id="variant"></p><dl id="stats"></dl><p>纸卡按需下载，缓存用于加快再次进入。手机请横屏使用。</p><button id="clear-cache">清理图片缓存</button></details>
+    <div class="settings-actions"><button id="reenter" disabled>重新显示房间</button><button id="close-details">返回房间</button></div>
+  </dialog>
+  <p id="notice" role="status" hidden></p>
+</body>
+</html>
