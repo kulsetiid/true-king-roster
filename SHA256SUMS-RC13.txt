@@ -1,0 +1,2 @@
+c2f9141ea76b9e0b100c6483366c3be5253b76764e9f926ae7ef3993786bf433  TrueKing-V3-RC13-Windows-x64.zip
+119499dca168be36f1cd1fe67bb2ac275d13ddc3a81750e6d764ba9cb01833d6  TrueKing-V3-RC13-Network.json

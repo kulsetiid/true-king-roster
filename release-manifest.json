@@ -1,41 +1,12 @@
 {
-  "name": "真王核心-纸剧场",
-  "version": "V0.3.42",
-  "buildId": "20261006-true-king-secret-supply-candy-v0.3.42",
+  "name": "真王核心 V3",
+  "version": "V0.3.44-RC13",
+  "buildId": "20261116-rc13-network",
   "scriptId": "a59735c3-f936-44f0-9835-f792cb5e6285",
   "site": "https://kulsetiid.github.io/true-king-roster/",
-  "loaderName": "真王核心-纸剧场-V0.3.42-网络加载.json",
-  "importName": "真王核心-纸剧场-V0.3.42-轻量联网版.json",
-  "assetTag": "assets-v0.3.42",
-  "sourceBaselineVersion": "V0.3.41",
-  "previousPublishedVersion": "V0.3.39",
-  "previousPublishedCommit": "a2bb7938d7bdc2068babdef3e57b15cacbf06eae",
-  "includePhone": false,
-  "sourceScriptSha256": "490fa16a08fc493933e74d8b8f2b96becede673fd907ef44d08d184113bcd6fa",
-  "scriptSha256": "0769883d7f0bd7da1e8c2d624d75a497318a9edad34a20df1baed300e71d771e",
-  "scriptBytes": 7133673,
-  "imageCount": 234,
-  "assetBytes": 154634148,
-  "retainedImageCount": 232,
-  "newAssets": [
-    {
-      "path": "assets/1ed1c18006c3ef98075d0ca983a4a3cde1c991dd790bca2af910cde02c517302.webp",
-      "sha256": "1ed1c18006c3ef98075d0ca983a4a3cde1c991dd790bca2af910cde02c517302",
-      "bytes": 181798
-    },
-    {
-      "path": "assets/c9bb3adbf4ce02b1bfc2b889b2b9375b4ba055f364fc14deae5c9450e7109036.webp",
-      "sha256": "c9bb3adbf4ce02b1bfc2b889b2b9375b4ba055f364fc14deae5c9450e7109036",
-      "bytes": 304928
-    }
-  ],
-  "embeddedAudioCount": 1,
-  "embeddedAudioBytes": 1719797,
-  "crystalImages": {
-    "host": "imgbb",
-    "count": 63,
-    "expiration": "none"
-  },
-  "entryRegex": "卡洛琳-提取虚空入口-V0.3.35.json",
-  "displayRegex": "卡洛琳-虚空武装晶体卡面-V0.3.38-imgBB.json"
+  "loaderName": "paper-home-v3/20261116-rc13-network/真王核心-RC13-网络版.json",
+  "localPackage": "https://github.com/kulsetiid/true-king-roster/releases/download/v3-rc13-20261116/TrueKing-V3-RC13-Windows-x64.zip",
+  "release": "https://github.com/kulsetiid/true-king-roster/releases/tag/v3-rc13-20261116",
+  "previousPublishedCommit": "806d9e5",
+  "mediaCommit": "4ad51ce7611b40fc54337a4a966a8f85b0ac90ca"
 }
