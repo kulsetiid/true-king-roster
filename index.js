@@ -1,1 +1,1 @@
-import './paper-home-v3/20261116-rc13-scopefix-network/entry.js';
+import './paper-home-v3/20261118-rc16-scalefix-network/entry.js';

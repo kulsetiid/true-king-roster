@@ -1,0 +1,4 @@
+7ef4558651d460731e1b59d0ee6d5d4f2e181c0d425421c8c96eb8a4fe2aa124  Livia-Dialogue-ImgBB.json
+46b2370237dbcc840d699f1821b0175050f6a21d1a79bbafa741482f21021043  TrueKing-Fixed-Worldbook.json
+3efde3b169579ad6ad9783e8ad4d782b429f6224dba6994892bb16d7cab17139  TrueKing-V3-RC16-ScaleFix-Network.json
+10e3173bb7d4526e859f03bb2b525f635ad0916484d487abe21bb33d0b82fbd6  TrueKing-V3-RC16-ScaleFix-Windows-x64.zip

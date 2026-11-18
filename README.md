@@ -1,16 +1,14 @@
 # 真王核心 V3
 
-**当前版本：V0.3.44 · RC13 世界书兼容修正版 · 2026-11-16**
+**当前版本：V0.3.44 · RC16 武装缩放修正版 · 2026-11-18**
 
-[打开下载页面](https://kulsetiid.github.io/true-king-roster/) · [网络版导入文件](paper-home-v3/20261116-rc13-scopefix-network/真王核心-RC13-网络版.json) · [Windows 本地一键包](https://github.com/kulsetiid/true-king-roster/releases/download/v3-rc13-scopefix-20261116/TrueKing-V3-RC13-ScopeFix-Windows-x64.zip) · [版本发布与校验](https://github.com/kulsetiid/true-king-roster/releases/tag/v3-rc13-scopefix-20261116)
+[打开下载页面](https://kulsetiid.github.io/true-king-roster/) · [网络版导入文件](paper-home-v3/20261118-rc16-scalefix-network/真王核心-RC16-网络版.json) · [Windows 本地一键包](https://github.com/kulsetiid/true-king-roster/releases/download/v3-rc16-scalefix-20261118/TrueKing-V3-RC16-ScaleFix-Windows-x64.zip) · [版本发布与校验](https://github.com/kulsetiid/true-king-roster/releases/tag/v3-rc16-scalefix-20261118)
 
 ## 本次修正
 
-固定世界书完整条目使用局部作用域，避免与重复条目或其他条目的同名变量发生冲突。正文输出、角色能力与存档格式不变。已验证单条输出一致、组合渲染及组件原位更新。
+修复虚空武装按钮刷新后面板突然放大或缩小：切换标签和收起对话时保留原缩放。合并天使邮路收信、拆信提速，以及仓库和秘密补给的重复检查精简。保留世界书兼容修复、利维娅 ImgBB 对白图片、全部角色与八项快捷入口。
 
-利维娅对白正则的 17 张表情图统一使用已上传的 ImgBB HTTPS 链接。网络版与本地一键包均已同步；本地版的利维娅对白图片也需要联网。其他纸卡与功能沿用原来的加载方式。
-
-已有用户请重新导入新版网络脚本，或安装新版一键包，并完成“完整组件安装”，以更新酒馆中已保存的正则；仅替换下载文件不会改变旧正则。如提示手动修改，请核对后选择“使用本包版本”。
+已完成 Edge 缩放实测、52 项相关回归检查与 11 项网络及横屏检查。已有用户重新导入网络版，或解压新版一键包后执行完整组件更新；同一酒馆只启用一个核心。
 
 ## 这一版有什么
 
@@ -43,11 +41,11 @@
 import 'https://kulsetiid.github.io/true-king-roster/index.js';
 ```
 
-下载的 RC13 导入文件使用固定版本地址；以后升级可重新导入新版。
+下载的 RC16 导入文件使用固定版本地址；以后升级可重新导入新版。
 
 ## 本地一键包：Windows 10/11 x64
 
-1. 从 [GitHub Release 下载完整 ZIP](https://github.com/kulsetiid/true-king-roster/releases/download/v3-rc13-scopefix-20261116/TrueKing-V3-RC13-ScopeFix-Windows-x64.zip)，**先完整解压**到一个独立文件夹。
+1. 从 [GitHub Release 下载完整 ZIP](https://github.com/kulsetiid/true-king-roster/releases/download/v3-rc16-scalefix-20261118/TrueKing-V3-RC16-ScaleFix-Windows-x64.zip)，**先完整解压**到一个独立文件夹。
 2. 双击 `真王核心.exe`，选择已有的 SillyTavern 文件夹（其中应有 `server.js`）。
 3. 选择自己的账号，点击“安装 / 更新完整组件”。更新前先等正文生成结束；由其他入口启动的酒馆请先正常退出。
 4. 酒馆启动后，进入目标角色卡，点击“安装到当前角色卡”。等世界书、美化逐项显示成功，再点“完成”。
@@ -68,4 +66,4 @@ import 'https://kulsetiid.github.io/true-king-roster/index.js';
 
 ## 历史版本
 
-旧版发布文件与纸卡地址继续保留。V3 的网络目录为 `paper-home-v3/20261116-rc13-scopefix-network/`；素材清单记录每个文件的 SHA-256 和固定地址。
+[历史版本归档](历史版本.md) 保留旧发行包、更新前的仓库快照与旧纸卡地址，供回退使用。首页下载始终指向当前推荐版。
